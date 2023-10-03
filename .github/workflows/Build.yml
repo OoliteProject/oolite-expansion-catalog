@@ -59,15 +59,28 @@ jobs:
         printenv | sort
         find
 
-    - name: Run Scanner
+    - name: "Run Generator/Scanner"
       run: |
         set -x
-        java -version
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
-        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out ./catalog.plist
+        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index.html
 
     - name: Check manifest
       run: |
         set -x
         cat catalog.plist
+
+    # See https://github.com/marketplace/actions/push-a-file-to-another-repository
+    - name: publish result
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'output/catalog/index.html'
+        destination_repo: 'OoliteProject/oolite-web'
+        destination_folder: 'api/1.0/overview'
+        user_email: 'builder@ooliteproject.org'
+        user_name: 'builder'
+        commit_message: 'Build run'
+      
