@@ -69,7 +69,7 @@ jobs:
     - name: Check manifest
       run: |
         set -x
-        cat catalog.plist
+        cat output/catalog/index.html
 
     # See https://github.com/marketplace/actions/push-a-file-to-another-repository
     - name: publish result
