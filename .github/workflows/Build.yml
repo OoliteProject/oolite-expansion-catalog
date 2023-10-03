@@ -43,7 +43,7 @@ jobs:
         # A flag to set if the downloaded assets are archives and should be extracted
         # Checks all downloaded files if they end with zip, tar or tar.gz and extracts them, if true.
         # Prints a warning if enabled but file is not an archive - but does not fail.
-        extract: false
+        extract: true
 
         # Github access token to download files from private repositories
         # https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets
