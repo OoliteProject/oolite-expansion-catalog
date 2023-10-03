@@ -11,9 +11,6 @@ jobs:
     steps:
     - uses: robinraju/release-downloader@v1.8
       with: 
-        # The source repository path.
-        # Expected format {owner}/{repo}
-        # Default: ${{ github.repository }}
         repository: "HiranChaudhuri/OoliteAddonScanner"
     
         # A flag to set the download target as latest release
@@ -58,3 +55,5 @@ jobs:
         # Use http(s)://[hostname]/api/v3 to access the API for GitHub Enterprise Server
         # github-api-url: ""
 
+    - run: |
+        find
