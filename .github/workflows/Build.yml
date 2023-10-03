@@ -76,7 +76,7 @@ jobs:
     - name: publish result
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        API_TOKEN_GITHUB: ${{ secrets.oolite_web_expansions_catalog_manager }}
       with:
         source_file: 'output/catalog/index.plist'
         destination_repo: 'OoliteProject/oolite-web'
