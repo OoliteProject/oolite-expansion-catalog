@@ -69,6 +69,7 @@ jobs:
 
     - name: Run Scanner
       run: |
+        set -x
         java -version
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
