@@ -66,6 +66,6 @@ jobs:
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
         pwd
-        ls -la "./OoliteAddonScanner-${OAS_VERSION}"
+        ls -la "."
         #java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out ./catalog.plist
         java -jar "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" 
