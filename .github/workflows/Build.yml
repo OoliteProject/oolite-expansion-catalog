@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: download
+    - id: download
       uses: robinraju/release-downloader@v1.8
       with: 
         repository: "HiranChaudhuri/OoliteAddonScanner"
@@ -56,7 +56,8 @@ jobs:
         # Use http(s)://[hostname]/api/v3 to access the API for GitHub Enterprise Server
         # github-api-url: ""
 
-    - run: |
+    - name: check
+      run: |
         echo "Tag: ${{steps.download.outputs.tag_name}}"
         printenv | sort
         find
