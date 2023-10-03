@@ -69,6 +69,7 @@ jobs:
     - name: Check manifest
       run: |
         set -x
+        find
         cat output/catalog/index.html
 
     # See https://github.com/marketplace/actions/push-a-file-to-another-repository
