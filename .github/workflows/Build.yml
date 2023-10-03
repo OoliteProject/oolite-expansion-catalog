@@ -25,7 +25,7 @@ jobs:
     
         # The github tag. e.g: v1.0.1
         # Download assets from a specific tag/version
-        tag: "v1.0.38"
+        tag: "v1.0.39"
     
         # The release id to download files from 
         releaseId: ""
@@ -80,6 +80,7 @@ jobs:
       with:
         source_file: 'output/catalog/index.plist'
         destination_repo: 'OoliteProject/oolite-web'
+        destination_branch: only-media
         destination_folder: 'api/1.0/overview'
         user_email: 'builder@ooliteproject.org'
         user_name: 'builder'
