@@ -1,0 +1,9 @@
+# This is the list of known expansions.
+#
+# The rules are:
+# - Have one URL per line
+# - Lines starting with hash are considered comments and ignored
+# - Empty lines (zero length or just whitespace) are ignored
+#
+
+http://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
