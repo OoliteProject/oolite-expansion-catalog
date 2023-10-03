@@ -9,6 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout project
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
     - id: download
       uses: robinraju/release-downloader@v1.8
       with: 
@@ -53,11 +58,6 @@ jobs:
         pwd
         printenv | sort
         find
-
-    - name: Checkout project
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
 
     - name: Run Scanner
       run: |
