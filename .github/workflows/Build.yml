@@ -56,5 +56,6 @@ jobs:
         # github-api-url: ""
 
     - run: |
+        echo "Tag: ${{steps.<step-id>.outputs.tag_name}}"
         printenv | sort
         find
