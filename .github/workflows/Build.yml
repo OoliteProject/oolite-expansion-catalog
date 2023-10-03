@@ -70,3 +70,4 @@ jobs:
     - name: Run Scanner
       run: |
         java -version
+        java -cp OoliteAddonScanner-${{steps.download.outputs.tag_name}}/OoliteAddonScanner-${{steps.download.outputs.tag_name}}.jar com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out ./catalog.plist
