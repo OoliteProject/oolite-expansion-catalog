@@ -65,6 +65,7 @@ jobs:
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
         java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index.plist
+        mv output/catalog/index.plist output/catalog/index.html
 
     - name: Check manifest
       run: |
@@ -78,10 +79,10 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.oolite_web_expansions_catalog_manager }}
       with:
-        source_file: 'output/catalog/index.plist'
+        source_file: 'output/catalog/index.html'
         destination_repo: 'OoliteProject/oolite-web'
         destination_branch: only-media
-        destination_folder: 'api/1.0/overview/index.html'
+        destination_folder: 'api/1.0/overview'
         user_email: 'builder@ooliteproject.org'
         user_name: 'builder'
         commit_message: 'Build run'
