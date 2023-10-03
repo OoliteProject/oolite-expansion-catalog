@@ -81,7 +81,7 @@ jobs:
         source_file: 'output/catalog/index.plist'
         destination_repo: 'OoliteProject/oolite-web'
         destination_branch: only-media
-        destination_folder: 'api/1.0/overview'
+        destination_folder: 'api/1.0/overview/index.html'
         user_email: 'builder@ooliteproject.org'
         user_name: 'builder'
         commit_message: 'Build run'
