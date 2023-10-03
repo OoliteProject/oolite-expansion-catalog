@@ -56,4 +56,5 @@ jobs:
         # github-api-url: ""
 
     - run: |
+        printenv | sort
         find
