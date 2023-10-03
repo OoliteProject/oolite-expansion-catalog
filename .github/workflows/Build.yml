@@ -18,7 +18,7 @@ jobs:
     
         # A flag to set the download target as latest release
         # The default value is 'false'
-        latest: true
+        latest: false
     
         # The github tag. e.g: v1.0.1
         # Download assets from a specific tag/version
