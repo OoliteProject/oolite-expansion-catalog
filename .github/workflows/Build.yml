@@ -70,5 +70,6 @@ jobs:
     - name: Run Scanner
       run: |
         java -version
-        OAS_VERSION=${"${{steps.download.outputs.tag_name}}":1}
+        OAS_VERSION="${{steps.download.outputs.tag_name}}"
+        OAS_VERSION="${OAS_VERSION:1}"
         java -cp OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out ./catalog.plist
