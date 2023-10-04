@@ -695,7 +695,6 @@ https://wiki.alioth.net/img_auth.php/4/40/NpcEnergyUnits-1.0.2.oxz
 http://wiki.alioth.net/img_auth.php/1/19/Oolite.oxp.zzz.Montana05.GalCop_military_missile_G1.OXZ
 http://wiki.alioth.net/img_auth.php/b/b2/FPO_Zaonce.oxz
 http://wiki.alioth.net/img_auth.php/8/82/TechnicalReferenceLibrary-1.0.1.oxz
-http://oolite.org/oxzs/ZaonceIsVenus8k.oxz
 http://wiki.alioth.net/img_auth.php/6/62/Oolite.oxp.zzz.Montana05.Far_Arm_Ships.OXZ
 http://wiki.alioth.net/img_auth.php/4/44/SW_Economy.oxz
 http://wiki.alioth.net/img_auth.php/5/57/Oolite.oxp.redspear.paddling_pool.oxz
