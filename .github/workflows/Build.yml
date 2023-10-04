@@ -85,5 +85,5 @@ jobs:
         destination_folder: 'api/1.0/overview'
         user_email: 'builder@ooliteproject.org'
         user_name: 'builder'
-        commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_id}}'
+        commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}'
       
