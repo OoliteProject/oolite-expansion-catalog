@@ -4,9 +4,11 @@
 # - Have one URL per line
 # - Lines starting with hash are considered comments and ignored
 # - Empty lines (zero length or just whitespace) are ignored
+# - it is recommended to sort the URLs to easily spot duplicated.
+#   Check the generator's pedantic mode.
 #
 
-#http://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
+http://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
 http://cim.sotl.org.uk/games/files/oolite/Ships_Library_0.8.oxz
 http://cim.sotl.org.uk/games/files/oolite/ShipsetCompatibility_1.4.oxz
 http://cim.sotl.org.uk/games/files/oolite/Library_Extracts_1.2.oxz
