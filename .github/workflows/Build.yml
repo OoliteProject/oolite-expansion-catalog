@@ -51,6 +51,14 @@ jobs:
         # Prints a warning if enabled but file is not an archive - but does not fail.
         extract: true
 
+    - name: Restore cached expansions
+      id: cache-restore
+      uses: actions/cache/restore@v3
+      with:
+        path: |
+          $HOME/.Oolite/expansion_cache
+        key: ${{ runner.os }}-expansion_cache
+
     - name: check
       run: |
         set -x
@@ -86,4 +94,12 @@ jobs:
         user_email: 'builder@ooliteproject.org'
         user_name: 'builder'
         commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}'
-      
+
+    - name: Save Expansions
+      id: cache-save
+      uses: actions/cache/save@v3
+      with:
+        path: |
+          $HOME/.Oolite/expansion_cache
+        key: ${{ runner.os }}-expansion_cache
+
