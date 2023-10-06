@@ -14,7 +14,8 @@ jobs:
       with:
         fetch-depth: 0
 
-    - id: download
+    - name: Download OoliteAddonScanner
+      id: download
       uses: robinraju/release-downloader@v1.8
       with: 
         repository: "HiranChaudhuri/OoliteAddonScanner"
@@ -51,7 +52,7 @@ jobs:
         # Prints a warning if enabled but file is not an archive - but does not fail.
         extract: true
 
-    - name: Restore cached expansions
+    - name: Restore expansions cache
       id: cache-restore
       uses: actions/cache/restore@v3
       with:
@@ -72,17 +73,18 @@ jobs:
         set -x
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
-        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index.plist -cache expansion-cache
+        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index.plist -cache expansion-cache -format plist,json
         mv output/catalog/index.plist output/catalog/index.html
+        mv output/catalog/index.json output/catalog/oxp.json
 
     - name: Check manifest
       run: |
         set -x
         find
-        cat output/catalog/index.html
 
     # See https://github.com/marketplace/actions/push-a-file-to-another-repository
-    - name: publish result
+    # but better to be replaced with https://github.com/marketplace/actions/push-dir
+    - name: publish plist index
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.oolite_web_expansions_catalog_manager }}
@@ -95,7 +97,20 @@ jobs:
         user_name: 'builder'
         commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}'
 
-    - name: Save Expansions
+    - name: publish json index
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.oolite_web_expansions_catalog_manager }}
+      with:
+        source_file: 'output/catalog/oxp.json'
+        destination_repo: 'OoliteProject/oolite-web'
+        destination_branch: only-media
+        destination_folder: 'data'
+        user_email: 'builder@ooliteproject.org'
+        user_name: 'builder'
+        commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}'
+
+    - name: Save Expansions Cache
       id: cache-save
       uses: actions/cache/save@v3
       with:

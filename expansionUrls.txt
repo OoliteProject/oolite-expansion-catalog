@@ -154,7 +154,7 @@ http://wiki.alioth.net/img_auth.php/8/85/Kirin_sport.oxz
 http://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 http://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
 http://wiki.alioth.net/img_auth.php/7/77/Audible_Docking_Clearance_1.3.1.oxz
-http://wiki.alioth.net/img_auth.php/2/25/ReverseControl_1.8.oxz
+https://wiki.alioth.net/img_auth.php/2/25/ReverseControl_1.8.oxz
 http://wiki.alioth.net/img_auth.php/0/09/DTT_Heart_of_Gold_1.0.oxz
 http://wiki.alioth.net/img_auth.php/c/c9/DTT_Planet_Express_1.1.oxz
 http://wiki.alioth.net/img_auth.php/6/68/DTT_Atlas_1.1.oxz
