@@ -193,7 +193,7 @@ http://wiki.alioth.net/img_auth.php/5/58/Star-jelly_v3.0.oxz
 http://wiki.alioth.net/img_auth.php/1/12/Sb-faves_1.1.3.oxz
 http://wiki.alioth.net/img_auth.php/e/ea/Green_Gecko_XL.oxz
 http://wiki.alioth.net/img_auth.php/4/4b/Compact_HUD.oxz
-http://wiki.alioth.net/img_auth.php/4/47/Delightful_Docking_v1.1.oxz
+https://wiki.alioth.net/img_auth.php/4/47/Delightful_Docking_v1.1.oxz
 http://wiki.alioth.net/img_auth.php/0/0f/HUDSelector-1.18.oxz
 http://wiki.alioth.net/img_auth.php/9/9d/CombatHUD_v4.1.oxz
 http://wiki.alioth.net/img_auth.php/0/07/CombatHUD-WS_v4.1.oxz
@@ -201,7 +201,7 @@ http://wiki.alioth.net/img_auth.php/7/77/Telescope_1.15.oxz
 http://wiki.alioth.net/img_auth.php/f/fa/DTT_Kraken_1.0.oxz
 http://wiki.alioth.net/img_auth.php/4/4d/SmartHUD_v1.0.oxz
 http://wiki.alioth.net/img_auth.php/3/3c/SmartHUD-WS_v1.0.oxz
-http://wiki.alioth.net/img_auth.php/0/0d/Beercooler.oxz
+https://wiki.alioth.net/img_auth.php/0/0d/Beercooler.oxz
 http://wiki.alioth.net/img_auth.php/8/8e/Oolite.oxp.redspear.additional_planets_sr_demux_volcanic.oxz
 http://wiki.alioth.net/img_auth.php/d/d0/VacuumPump_0.3.oxz
 http://wiki.alioth.net/img_auth.php/2/29/Oolite.oxp.redspear.additional_planets_sr_others_gas_giants.oxz
