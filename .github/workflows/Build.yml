@@ -73,7 +73,7 @@ jobs:
         set -x
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
-        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index.plist -cache expansion-cache -format plist,json
+        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index -cache expansion-cache -format plist,json
         mv output/catalog/index.plist output/catalog/index.html
         mv output/catalog/index.json output/catalog/oxp.json
 
