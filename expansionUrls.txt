@@ -389,8 +389,8 @@ http://wiki.alioth.net/img_auth.php/c/ca/Trails_1.11.oxz
 http://wiki.alioth.net/img_auth.php/7/7e/Ambiences_recommended_by_Norby.oxz
 http://wiki.alioth.net/img_auth.php/c/c7/Icesteroids_2.1.oxz
 http://wiki.alioth.net/img_auth.php/9/9d/Satellites.oxz
-http://wiki.alioth.net/img_auth.php/0/0f/ClassicShipyard_v1.1.oxz
-http://wiki.alioth.net/img_auth.php/d/dc/ShipRespray.oxz
+https://wiki.alioth.net/img_auth.php/0/0f/ClassicShipyard_v1.1.oxz
+https://wiki.alioth.net/img_auth.php/d/dc/ShipRespray.oxz
 http://wiki.alioth.net/img_auth.php/c/cd/The_Classic_Ooniverse.oxz
 http://wiki.alioth.net/img_auth.php/4/45/Enigmas.oxz
 http://wiki.alioth.net/img_auth.php/c/cb/Market_observer_3.7.oxz
