@@ -56,6 +56,7 @@ https://wiki.alioth.net/img_auth.php/4/49/More_Moolah.oxz
 https://wiki.alioth.net/img_auth.php/4/4b/ComboF7Layout.oxz
 http://wiki.alioth.net/img_auth.php/4/4d/Oolite.oxp.redspear.star_fuel.oxz
 http://wiki.alioth.net/img_auth.php/5/54/Oolite.oxp.UK_Eliter.HarderHermits.oxz
+https://wiki.alioth.net/img_auth.php/5/57/Oolite.oxp.redspear.paddling_pool.oxz
 http://wiki.alioth.net/img_auth.php/5/5b/EscapePodLocator-1.4.1.oxz
 https://wiki.alioth.net/img_auth.php/5/5d/Oolite.oxp.zzz.Montana05.adck_bulk_haulers.oxz
 https://wiki.alioth.net/img_auth.php/5/5e/Teleportation_Drive.oxz
@@ -66,6 +67,7 @@ https://wiki.alioth.net/img_auth.php/6/63/FactoryPaintJobs_Moray.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Oolite.oxp.redspear.new_lasers.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Telescope_StationOptions.oxz
 http://wiki.alioth.net/img_auth.php/6/64/Oolite.oxp.zzz.Montana05_Taranis_outrider.OXZ
+https://wiki.alioth.net/img_auth.php/6/69/SerpentClassCruiser_Fix-1.0.oxz
 https://wiki.alioth.net/img_auth.php/6/69/VimanaX_HUD.oxz
 https://wiki.alioth.net/img_auth.php/6/6b/FactoryPaintJobs_Sidewinder.oxz
 https://wiki.alioth.net/img_auth.php/6/6c/FactoryPaintJobs_Anaconda.oxz
@@ -74,11 +76,14 @@ http://wiki.alioth.net/img_auth.php/7/71/Gallery_1.21.oxz
 https://wiki.alioth.net/img_auth.php/7/73/FactoryPaintJobs_BoaMk2.oxz
 https://wiki.alioth.net/img_auth.php/7/74/Oolite.oxp.LittleBear.GalacticAlmanac.oxz
 https://wiki.alioth.net/img_auth.php/7/75/Naval_Grid_1.00.oxz
+https://wiki.alioth.net/img_auth.php/7/75/Oolite.oxp.LittleBear.RandomStationNames.0.0.2.oxz
 https://wiki.alioth.net/img_auth.php/7/7b/Ambience_Collection.oxz
+https://wiki.alioth.net/img_auth.php/7/7d/CylonRaiderMk1-1.01.oxz
 http://wiki.alioth.net/img_auth.php/7/7e/RemoveIndividualPylon.oxz
 https://wiki.alioth.net/img_auth.php/7/7f/FactoryPaintJobs_Gecko.oxz
 https://wiki.alioth.net/img_auth.php/5/54/Oolite.oxp.redspear.galdrive_reimagined.oxz
 http://wiki.alioth.net/img_auth.php/6/65/GalTechEscapePods-1.10.oxz
+https://wiki.alioth.net/img_auth.php/8/80/VimanaShipOverrides-2.07.oxz
 http://wiki.alioth.net/img_auth.php/8/82/TechnicalReferenceLibrary-1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Oolite.oxp.zzz.Montana05.KillerWolf.nuit_station.OXZ
 http://wiki.alioth.net/img_auth.php/8/84/Oolite.oxp.zzz.Montana05_S9_firefly_class.OXZ
@@ -96,8 +101,10 @@ http://wiki.alioth.net/img_auth.php/a/aa/Oolite.oxp.redspear.cargo_scoop_as_stan
 http://wiki.alioth.net/img_auth.php/a/ae/ConstitutionClassHeavyCruiser-1.0.oxz
 https://wiki.alioth.net/img_auth.php/a/ae/TionislaOrbitalGraveyard_Memorials.oxz
 https://wiki.alioth.net/img_auth.php/b/b1/Oolite.oxp.redspear.tech_shuffle.oxz
+https://wiki.alioth.net/img_auth.php/b/b3/Oolite.oxp.zzz.Montana05.GalTech_colonial_viper_mark_I_Restore.OXZ
 http://wiki.alioth.net/img_auth.php/b/b5/Oolite.oxp.redspear.missile_combat_reimagined.oxz
 https://wiki.alioth.net/img_auth.php/b/b7/Overdrive.oxz
+https://wiki.alioth.net/img_auth.php/b/b7/SerpentClassCruiser-1.03.oxz
 http://wiki.alioth.net/img_auth.php/b/ba/Assassin_pack_shipset.oxz
 http://wiki.alioth.net/img_auth.php/b/bd/AssassinsGuild-1.3.3.oxz
 http://wiki.alioth.net/img_auth.php/c/c8/Primeable-Equipment-MFD_1.0.oxz
@@ -107,6 +114,8 @@ https://wiki.alioth.net/img_auth.php/c/cf/FactoryPaintJobs_Adder.oxz
 https://wiki.alioth.net/img_auth.php/d/d5/Planner_1.0.0.oxz
 https://wiki.alioth.net/img_auth.php/d/d8/Oolite.oxp.Matt634.Galactic_Navy.oxz
 https://wiki.alioth.net/img_auth.php/d/de/Himsn_0.9-alpha.oxz
+https://wiki.alioth.net/img_auth.php/e/e2/Oolite.oxp.redspear.escape_pod_as_standard.oxz
+https://wiki.alioth.net/img_auth.php/e/e2/SuperHUBForExtraPlanets-1.2.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/Total_patrol_1.4.oxz
 http://wiki.alioth.net/img_auth.php/e/e8/Oolite.oxp.zzz.Montana05.thargoid_weaponry.OXZ
 http://wiki.alioth.net/img_auth.php/e/eb/TowbarPayout-Medium-1.1.oxz
@@ -115,6 +124,7 @@ http://wiki.alioth.net/img_auth.php/e/ed/Oolite.oxp.zzz.Montana05.BUS_MegaBat.OX
 https://wiki.alioth.net/img_auth.php/f/f3/OxpConfig_2.3.4.oxz
 https://wiki.alioth.net/img_auth.php/f/f6/Oolite.oxp.zzz.Montana05.Kestrel_Falcon.OXZ
 https://wiki.alioth.net/img_auth.php/f/f7/Addons_for_Beginners.oxz
+https://wiki.alioth.net/img_auth.php/f/fd/ArachnidMark1_Fix-1.0.oxz
 https://www.dl.dropboxusercontent.com/s/5c4bbeuw6ntlzs0/InterfaceReordering.0.2.oxz
 
 http://cim.sotl.org.uk/games/files/oolite/Skilled_NPCs_1.2.oxz
@@ -134,6 +144,7 @@ http://wiki.alioth.net/img_auth.php/3/33/SellAll_1.29.oxz
 http://wiki.alioth.net/img_auth.php/6/64/ShipVersion_1.24.oxz
 http://wiki.alioth.net/img_auth.php/8/83/LogEvents_1.4.oxz
 http://wiki.alioth.net/img_auth.php/c/c5/NumericHUD_3.27.oxz
+https://wiki.alioth.net/img_auth.php/c/cd/RockHermitBeacons-1.3.oxz
 http://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
 https://wiki.alioth.net/img_auth.php/b/b4/ShieldEqualizerAndCapacitors-1.8.oxz
 http://wiki.alioth.net/img_auth.php/e/e0/CustomShields_0.83.oxz
@@ -709,10 +720,8 @@ http://wiki.alioth.net/img_auth.php/4/41/EquipmentStorage.oxz
 http://wiki.alioth.net/img_auth.php/5/5c/Secretarybird_v1.0.oxz
 http://wiki.alioth.net/img_auth.php/e/e7/Tec_apep_mk_2_v1.0.oxz
 http://wiki.alioth.net/img_auth.php/1/1b/HyperCargo_1.11.oxz
-http://wiki.alioth.net/img_auth.php/e/e2/Oolite.oxp.redspear.escape_pod_as_standard.oxz
 http://wiki.alioth.net/img_auth.php/a/a5/Vortex-1.32.oxz
 http://wiki.alioth.net/img_auth.php/2/28/SunGear.oxz
-http://wiki.alioth.net/img_auth.php/7/75/Oolite.oxp.LittleBear.RandomStationNames.0.0.2.oxz
 http://wiki.alioth.net/img_auth.php/8/8e/LaveIsEarth8k.oxz
 https://wiki.alioth.net/img_auth.php/e/e1/Towbar-1.1.oxz
 http://wiki.alioth.net/img_auth.php/6/64/ShipVersion_1.24.oxz
@@ -721,9 +730,6 @@ https://wiki.alioth.net/img_auth.php/9/95/Ils-1.15.oxz
 https://wiki.alioth.net/img_auth.php/9/92/EscortDeck-1.12.oxz
 http://wiki.alioth.net/img_auth.php/f/f4/TionislaIsMars8k.oxz
 http://wiki.alioth.net/img_auth.php/c/c6/ChimeraGunship-1.0.oxz
-http://wiki.alioth.net/img_auth.php/7/7d/CylonRaiderMk1-1.01.oxz
-http://wiki.alioth.net/img_auth.php/b/b7/SerpentClassCruiser-1.03.oxz
-http://wiki.alioth.net/img_auth.php/c/cd/RockHermitBeacons-1.3.oxz
 http://wiki.alioth.net/img_auth.php/7/7b/Fireball-1.01.oxz
 http://wiki.alioth.net/img_auth.php/6/6d/ArachnidMark1-1.01.oxz
 http://wiki.alioth.net/img_auth.php/b/b6/MedicalAnaconda-1.0.oxz
@@ -731,10 +737,7 @@ http://wiki.alioth.net/img_auth.php/d/d0/DisoIsJupiter8k.oxz
 http://wiki.alioth.net/img_auth.php/0/0b/LeestiIsMoon8k.oxz
 http://wiki.alioth.net/img_auth.php/d/db/BarrelRoll-1.1.oxz
 http://wiki.alioth.net/img_auth.php/e/e3/LeestiIsMoonLSM8k.oxz
-http://wiki.alioth.net/img_auth.php/f/fd/ArachnidMark1_Fix-1.0.oxz
 http://wiki.alioth.net/img_auth.php/2/2d/Fireball_Fix-1.0.oxz
-http://wiki.alioth.net/img_auth.php/6/69/SerpentClassCruiser_Fix-1.0.oxz
-http://wiki.alioth.net/img_auth.php/e/e2/SuperHUBForExtraPlanets-1.2.oxz
 http://wiki.alioth.net/img_auth.php/1/1f/Market_ads_1.0.oxz
 http://wiki.alioth.net/img_auth.php/0/0e/VimanaHUD-2.07.oxz
 http://wiki.alioth.net/img_auth.php/1/1a/FPO_Lave.oxz
@@ -745,14 +748,11 @@ https://wiki.alioth.net/img_auth.php/e/ee/Elite_Trader.oxz
 http://wiki.alioth.net/img_auth.php/3/36/Riredi-1.0.0.oxz
 http://wiki.alioth.net/img_auth.php/1/10/Tianve-1.3.oxz
 http://wiki.alioth.net/img_auth.php/7/7c/SniperLock_Fix-1.0.oxz
-http://wiki.alioth.net/img_auth.php/8/80/VimanaShipOverrides-2.07.oxz
 https://wiki.alioth.net/img_auth.php/7/7c/GETter_HUD.oxz
 http://wiki.alioth.net/img_auth.php/f/f4/SniperLockPlus-1.0.2.oxz
 http://wiki.alioth.net/img_auth.php/7/7c/FlyingDutchman-1.7.oxz
-http://wiki.alioth.net/img_auth.php/b/b3/Oolite.oxp.zzz.Montana05.GalTech_colonial_viper_mark_I_Restore.OXZ
 http://wiki.alioth.net/img_auth.php/b/b2/FPO_Zaonce.oxz
 http://wiki.alioth.net/img_auth.php/4/44/SW_Economy.oxz
-http://wiki.alioth.net/img_auth.php/5/57/Oolite.oxp.redspear.paddling_pool.oxz
 https://wiki.alioth.net/img_auth.php/9/95/Oolite.oxp.zzz.Montana05.snark.OXZ
 #(896, 'Active', 'oolite.oxp.Cholmondely.Addons_for_Beginners_(Vital_Statistics)', '1.88', 'Addons for Beginners (Vital Statistics)', '1.2', 1, 'Downloads data OXP''s to help you succeed with Oolite. In-game Ship''s Manual, ship identifier, galaxy guide, current system guide, Market info & helpful HUD.\r\n*Ship''s Library\r\n*XenonUI\r\n*Technical Reference Library\r\n*GalCop Galactic Registry\r\n*Galactic Almanac\r\n*Market Observer\r\n*Vimana-X HUD (flashes warnings for Incoming Missiles, High Temperature, Low Altitude, Low Energy & Low Shields)\r\n*HUD selector (optional)', 'Oolite.oxp.Cholmondeley.Addons_for_Beginners_(Vital_Statistics).v.1.2.oxz ', 'Cholmondely', 2544, 'http://wiki.alioth.net/index.php/Addons_for_Beginners_(Vital_Statistics)', 'CC-BY-NC-SA 4.0', '', 76, '2023-08-14 02:15:26'),
 https://wiki.alioth.net/img_auth.php/2/24/Cag.station_options.oxz
@@ -762,6 +762,7 @@ https://wiki.alioth.net/img_auth.php/a/ae/Oolite.oxp.zzz.Montana05.Slartibartfas
 https://wiki.alioth.net/img_auth.php/c/c3/Oolite.oxp.zzz.Montana05.griff.hognose.OXZ
 https://wiki.alioth.net/img_auth.php/e/ea/Oolite.oxp.redspear.masslock_reimagined.oxz
 https://www.dl.dropboxusercontent.com/s/sc0ncl2bil8fcfe/RoutePlanner.0.3.oxz
+
 https://wiki.alioth.net/img_auth.php/3/3f/FactoryPaintJobs_Asp.oxz
 https://wiki.alioth.net/img_auth.php/9/96/FactoryPaintJobs_Boa.oxz
 https://wiki.alioth.net/img_auth.php/d/d7/FactoryPaintJobs_Ferdelance.oxz
