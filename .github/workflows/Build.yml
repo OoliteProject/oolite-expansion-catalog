@@ -26,7 +26,7 @@ jobs:
     
         # The github tag. e.g: v1.0.1
         # Download assets from a specific tag/version
-        tag: "v1.0.55"
+        tag: "v1.0.56"
     
         # The release id to download files from 
         releaseId: ""
