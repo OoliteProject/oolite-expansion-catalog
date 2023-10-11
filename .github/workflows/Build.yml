@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout project
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        path: oolite-expansion-catalog
 
     - name: Download OoliteAddonScanner
       id: download
@@ -26,7 +27,7 @@ jobs:
     
         # The github tag. e.g: v1.0.1
         # Download assets from a specific tag/version
-        tag: "v1.0.58"
+        tag: "v1.0.66"
     
         # The release id to download files from 
         releaseId: ""
@@ -60,55 +61,80 @@ jobs:
           expansion-cache
         key: ${{ runner.os }}-expansion_cache
 
-    - name: check
+    - name: check before Generator
       run: |
         set -x
         echo "Tag: ${{steps.download.outputs.tag_name}}"
         pwd
         printenv | sort
-        find
+        find -type f -not -path ".git/*"
 
-    - name: "Run Generator/Scanner"
+    - name: "Run Catalog Generator"
       run: |
         set -x
         OAS_VERSION="${{steps.download.outputs.tag_name}}"
         OAS_VERSION="${OAS_VERSION:1}"
-        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main -in expansionUrls.txt  -out output/catalog/index -cache expansion-cache -format plist,json
-        mv output/catalog/index.plist output/catalog/index.html
-        mv output/catalog/index.json output/catalog/oxp.json
+        java -cp "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" com.chaudhuri.cataloggenerator.Main --in oolite-expansion-catalog/expansionUrls.txt --out output/catalog/index --cache expansion-cache --format plist,json
+#        mv output/catalog/index.plist output/catalog/index.html
+#        mv output/catalog/index.json output/catalog/oxp.json
 
-    - name: Check manifest
+    - name: Check after Catalog Generator
       run: |
         set -x
-        find
+        find -type f -not -path "./.git/*"
 
-    # See https://github.com/marketplace/actions/push-a-file-to-another-repository
-    # but better to be replaced with https://github.com/marketplace/actions/push-dir
-    - name: publish plist index
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.oolite_web_expansions_catalog_manager }}
-      with:
-        source_file: 'output/catalog/index.html'
-        destination_repo: 'OoliteProject/oolite-web'
-        destination_branch: only-media
-        destination_folder: 'api/1.0/overview'
-        user_email: 'builder@ooliteproject.org'
-        user_name: 'builder'
-        commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}'
+    - name: "Run Scanner/Index Generator"
+      run: |
+        set -x
+        OAS_VERSION="${{steps.download.outputs.tag_name}}"
+        OAS_VERSION="${OAS_VERSION:1}"
+        java -jar "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" --url file://$(pwd)/output/catalog/index.plist --out output/OoliteExpansionIndex --cache expansion-cache --zip
 
-    - name: publish json index
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.oolite_web_expansions_catalog_manager }}
+    - name: Check after Index Generator
+      run: |
+        set -x
+        find -type f -not -path ".git/*"
+
+    - name: Checkout website
+      uses: actions/checkout@v4
       with:
-        source_file: 'output/catalog/oxp.json'
-        destination_repo: 'OoliteProject/oolite-web'
-        destination_branch: only-media
-        destination_folder: 'data'
-        user_email: 'builder@ooliteproject.org'
-        user_name: 'builder'
-        commit_message: '${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}'
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+        repository: 'OoliteProject/oolite-web'
+        ref: only-media
+        path: output/oolite-web
+
+    - name: Move result
+      run: |
+        set -x
+        rm -rf output/oolite-web/root/html/OoliteExpansionIndex
+        mkdir -p output/oolite-web/root/html/OoliteExpansionIndex
+        cp 'output/catalog/index.plist' 'output/oolite-web/api/1.0/overview/index.html'
+        cp 'output/catalog/index.json' 'output/oolite-web/data/oxp.json'
+        cp -rv 'output/OoliteExpansionIndex' 'output/oolite-web/root/html'
+    
+    - name: Check before commit
+      run: |
+        set -x
+        cd output/oolite-web
+        git status
+        
+    - name: Commit the changes
+      run: |
+        set -x
+        cd output/oolite-web
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -a -m "${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}"
+
+    - name: Push changes
+      if: github.ref == 'refs/heads/master'
+      uses: ad-m/github-push-action@master
+      with:
+        repository: 'OoliteProject/oolite-web'
+        directory: output/oolite-web
+        branch: only-media
+        github_token: ${{ secrets.oolite_web_expansions_catalog_manager }}
 
     - name: Save Expansions Cache
       id: cache-save
@@ -118,3 +144,4 @@ jobs:
           expansion-cache
         key: ${{ runner.os }}-expansion_cache
 
+# TODO: Release the zip
