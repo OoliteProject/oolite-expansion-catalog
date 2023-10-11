@@ -83,17 +83,17 @@ jobs:
         set -x
         find -type f -not -path "./.git/*"
 
-    - name: "Run Scanner/Index Generator"
-      run: |
-        set -x
-        OAS_VERSION="${{steps.download.outputs.tag_name}}"
-        OAS_VERSION="${OAS_VERSION:1}"
-        java -jar "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" --url file://$(pwd)/output/catalog/index.plist --out output/OoliteExpansionIndex --cache expansion-cache --zip
+#    - name: "Run Scanner/Index Generator"
+#      run: |
+#        set -x
+#        OAS_VERSION="${{steps.download.outputs.tag_name}}"
+#        OAS_VERSION="${OAS_VERSION:1}"
+#        java -jar "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" --url file://$(pwd)/output/catalog/index.plist --out output/OoliteExpansionIndex --cache expansion-cache --zip
 
-    - name: Check after Index Generator
-      run: |
-        set -x
-        find -type f -not -path ".git/*"
+#    - name: Check after Index Generator
+#      run: |
+#        set -x
+#        find -type f -not -path ".git/*"
 
     - name: Checkout website
       uses: actions/checkout@v4
@@ -111,7 +111,7 @@ jobs:
         mkdir -p output/oolite-web/root/html/OoliteExpansionIndex
         cp 'output/catalog/index.plist' 'output/oolite-web/api/1.0/overview/index.html'
         cp 'output/catalog/index.json' 'output/oolite-web/data/oxp.json'
-        cp -rv 'output/OoliteExpansionIndex' 'output/oolite-web/root/html'
+#        cp -rv 'output/OoliteExpansionIndex' 'output/oolite-web/root/html'
     
     - name: Check before commit
       run: |
