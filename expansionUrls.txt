@@ -624,7 +624,7 @@ https://wiki.alioth.net/img_auth.php/8/8f/Andromeda_1.5.oxz
 https://wiki.alioth.net/img_auth.php/f/fb/Oolite.oxp.amah.noshaders_alternateships.oxz
 https://wiki.alioth.net/img_auth.php/d/dc/Vector_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/d/de/Oolite.oxp.amah.noshaders_extraships-1.1.oxz
-http://cim.sotl.org.uk/games/files/oolite/EnergyBomb_1.0.2.oxz
+https://cim.sotl.org.uk/games/files/oolite/EnergyBomb_1.0.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2c/Reduce_Weapon_Damage_0.10.oxz
 https://wiki.alioth.net/img_auth.php/1/11/TheCollector.0.4.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/Tws_satnav.oxz
@@ -678,15 +678,15 @@ https://wiki.alioth.net/img_auth.php/f/f1/Eq_aide_1.3.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/Planetary_Compass_1.01.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Star-jelly_v3.0.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/BetterBuoys_v1.3.oxz
-http://cim.sotl.org.uk/games/files/oolite/Comms_Pack_A_0.5.oxz
+https://cim.sotl.org.uk/games/files/oolite/Comms_Pack_A_0.5.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/CaptSolos-GoodFortune.oxz
 https://wiki.alioth.net/img_auth.php/0/04/HyperradioCATACLYSM.oxz
-http://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
+https://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
 https://wiki.alioth.net/img_auth.php/5/50/BetterScreens.oxz
 https://wiki.alioth.net/img_auth.php/2/27/Glare_filter_1.0.oxz
 https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
 https://wiki.alioth.net/images/f/f3/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.5.oxz
-http://cim.sotl.org.uk/games/files/oolite/ShipsetCompatibility_1.4.oxz
+https://cim.sotl.org.uk/games/files/oolite/ShipsetCompatibility_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
 https://wiki.alioth.net/img_auth.php/2/24/PlanetFall_1.51.oxz
 https://wiki.alioth.net/img_auth.php/7/7a/DTT_Snake_Charmer_1.1.oxz
