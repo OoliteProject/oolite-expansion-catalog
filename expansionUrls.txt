@@ -167,7 +167,7 @@ https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
-https://wiki.alioth.net/img_auth.php/d/dd/Smugglers.oxz
+https://wiki.alioth.net/img_auth.php/1/16/Smugglers_2.1.1.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/4/41/EquipmentStorage.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
