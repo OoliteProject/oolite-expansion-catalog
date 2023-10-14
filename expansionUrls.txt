@@ -172,7 +172,7 @@ https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/4/41/EquipmentStorage.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
-https://wiki.alioth.net/img_auth.php/8/8b/ManualWitchspaceAlignment.oxz
+https://wiki.alioth.net/img_auth.php/2/26/ManualWitchspaceAlignment_2.8.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/CompressedF7Layout.oxz
 https://wiki.alioth.net/img_auth.php/0/05/Oolite.oxp.zzz.Montana05.ZPG_fer_de_pai.OXZ
 https://wiki.alioth.net/img_auth.php/2/20/LongWayRound.oxz
