@@ -211,7 +211,7 @@ https://wiki.alioth.net/img_auth.php/7/7c/FlyingDutchman-1.7.oxz
 https://wiki.alioth.net/img_auth.php/5/57/DeepSpacePirates-1.9.oxz
 https://wiki.alioth.net/img_auth.php/d/db/BarrelRoll-1.1.oxz
 https://wiki.alioth.net/img_auth.php/0/0e/VimanaHUD-2.07.oxz
-https://wiki.alioth.net/img_auth.php/3/3c/CombatMFD-1.14.oxz
+https://wiki.alioth.net/img_auth.php/e/e4/CombatMFD-1.15.oxz
 https://wiki.alioth.net/img_auth.php/9/91/PlanetarySystemsTexturePack_H.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/PlanetarySystemsTexturePack_G.oxz
 https://wiki.alioth.net/img_auth.php/0/07/PlanetarySystemsTexturePack_F.oxz
@@ -406,7 +406,7 @@ https://wiki.alioth.net/img_auth.php/3/33/Oolite.oxp.Astrobe.compass-target-auto
 https://wiki.alioth.net/img_auth.php/3/34/FTZ.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/SpyHunter.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Oolite.oxp.Astrobe.surjectors.oxz
-https://wiki.alioth.net/img_auth.php/4/42/Additional_planets_sr_base_0.8.oxz
+https://wiki.alioth.net/img_auth.php/7/78/Additional_planets_sr_base_0.9.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Skilled_NPCs.oxz
 https://wiki.alioth.net/img_auth.php/a/a9/Astrofactory.oxz
 https://wiki.alioth.net/img_auth.php/9/9d/Satellites.oxz
