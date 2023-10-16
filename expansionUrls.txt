@@ -267,7 +267,7 @@ https://wiki.alioth.net/img_auth.php/a/a0/Oolite.oxp.Thargoid.IronHide.3.06.oxz
 https://wiki.alioth.net/img_auth.php/1/18/FuelInjectionCruiseControl.oxz
 https://wiki.alioth.net/img_auth.php/f/fb/HomeSystem.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/TrophyCollector.oxz
-https://wiki.alioth.net/img_auth.php/4/4e/LaserMountSwitchingSystem.oxz
+https://wiki.alioth.net/img_auth.php/0/02/LaserMountSwitchingSystem_2.6.oxz
 https://wiki.alioth.net/img_auth.php/6/64/ShipVersion_1.24.oxz
 https://wiki.alioth.net/img_auth.php/8/82/Illegal_Goods_Tweak.oxz
 https://wiki.alioth.net/img_auth.php/1/10/OrbitalStations.oxz
