@@ -37,14 +37,14 @@ https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_ful
 https://wiki.alioth.net/img_auth.php/0/07/XenonUI_SWEconomy_Addition.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
 https://wiki.alioth.net/img_auth.php/6/69/VimanaX_HUD.oxz
-https://wiki.alioth.net/img_auth.php/7/70/Z-GrOovY_SmallSystemStations.oxz
+https://wiki.alioth.net/img_auth.php/e/ed/Z-GrOovY_SmallSystemStations_1.9.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Commies_2.19.oxz
 https://wiki.alioth.net/img_auth.php/a/a5/Dictators.oxz
 https://wiki.alioth.net/img_auth.php/d/d4/Escort_Formations_1.3.oxz
 https://wiki.alioth.net/img_auth.php/9/9f/LaserCannons_1.13.1.oxz
 https://wiki.alioth.net/img_auth.php/3/3a/BGS2.5.4.oxz
 https://wiki.alioth.net/img_auth.php/8/81/ShipConfiguration.oxz
-https://wiki.alioth.net/img_auth.php/9/97/BroadcastCommsMFD.oxz
+https://wiki.alioth.net/img_auth.php/a/ae/BroadcastCommsMFD_1.3.6.oxz
 https://wiki.alioth.net/img_auth.php/8/8d/Oolite.oxp.Cholmondeley.Addons_for_Beginners_(Vital_Statistics).v.1.2.oxz
 https://wiki.alioth.net/img_auth.php/7/74/Oolite.oxp.LittleBear.GalacticAlmanac.oxz
 https://wiki.alioth.net/img_auth.php/a/ae/TionislaOrbitalGraveyard_Memorials.oxz
