@@ -113,6 +113,12 @@ jobs:
           ref: only-media
           path: output/oolite-web
 
+      - name: Fix permissions for Github Pages
+        run: |
+          chmod -c -R +rX "output/OoliteExpansionIndex/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+
       - name: Move result
         run: |
           set -x
@@ -146,6 +152,11 @@ jobs:
           branch: only-media
           github_token: ${{ secrets.oolite_web_expansions_catalog_manager }}
 
+      - name: Upload github pages artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: output/OoliteExpansionIndex
+          
       - name: Remove old OoliteExpansionIndex releases
         if: github.ref == 'refs/heads/main'
         uses: s00d/delete-older-releases@0.2.1
