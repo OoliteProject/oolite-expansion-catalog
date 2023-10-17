@@ -73,7 +73,7 @@ jobs:
 
       - name: get date
         run: |
-          echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
+          echo "TODAY=$(date +'%Y%m%d-%H%M')" >> $GITHUB_ENV
 
       - name: check before Catalog Generator
         run: |
