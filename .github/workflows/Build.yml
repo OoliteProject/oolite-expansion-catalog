@@ -156,7 +156,11 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: output/OoliteExpansionIndex
-          
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+        
       - name: Remove old OoliteExpansionIndex releases
         if: github.ref == 'refs/heads/main'
         uses: s00d/delete-older-releases@0.2.1
