@@ -8,7 +8,7 @@
 #   Check the generator's pedantic mode.
 #
 
-https://wiki.alioth.net/img_auth.php/b/b2/BlackMarket.oxz
+https://wiki.alioth.net/img_auth.php/4/42/BlackMarket_1.1.oxz
 https://wiki.alioth.net/img_auth.php/9/91/RiskyBusiness.oxz
 https://wiki.alioth.net/img_auth.php/3/34/MarketScriptInterface.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/BlOomberg_Markets_2.8.oxz
