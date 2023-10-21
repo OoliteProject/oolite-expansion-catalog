@@ -756,7 +756,7 @@ https://wiki.alioth.net/img_auth.php/8/83/LoveCats_1.3.1.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Pirate_Coves_1.4.2.oxz
 https://wiki.alioth.net/img_auth.php/d/d1/Cargo_wrecks_teaser_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/AsteroidStorm_4.3.oxz
-https://wiki.alioth.net/img_auth.php/e/ea/BigShips_1.02.oxz
+https://wiki.alioth.net/img_auth.php/9/9b/BigShips_1.3.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Famous_Planets_2.7.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/CustomShields_0.83.oxz
 https://wiki.alioth.net/img_auth.php/7/72/Q-Bomb_Detector_1.4.oxz
