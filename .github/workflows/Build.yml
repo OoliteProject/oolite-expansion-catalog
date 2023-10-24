@@ -23,11 +23,11 @@ jobs:
 
           # A flag to set the download target as latest release
           # The default value is 'false'
-          latest: false
+          latest: true
 
           # The github tag. e.g: v1.0.1
           # Download assets from a specific tag/version
-          tag: "v1.0.68"
+          # tag: "v1.0.68"
 
           # The release id to download files from
           releaseId: ""
