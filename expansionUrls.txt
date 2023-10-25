@@ -172,7 +172,7 @@ https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/d/db/EquipmentStorage_1.8.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
-https://wiki.alioth.net/img_auth.php/2/26/ManualWitchspaceAlignment_2.8.oxz
+https://wiki.alioth.net/img_auth.php/d/dc/ManualWitchspaceAlignment_2.9.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/CompressedF7Layout.oxz
 https://wiki.alioth.net/img_auth.php/0/05/Oolite.oxp.zzz.Montana05.ZPG_fer_de_pai.OXZ
 https://wiki.alioth.net/img_auth.php/2/20/LongWayRound.oxz
@@ -752,7 +752,7 @@ https://wiki.alioth.net/img_auth.php/f/f9/Ionics_1.3.1.oxz
 https://wiki.alioth.net/img_auth.php/8/84/Deposed_1.4.oxz
 https://wiki.alioth.net/img_auth.php/d/db/MilitaryFiasco_2.5.3.oxz
 https://wiki.alioth.net/img_auth.php/a/a5/Taranis_1.3.oxz
-https://wiki.alioth.net/img_auth.php/8/83/LoveCats_1.3.1.oxz
+https://wiki.alioth.net/img_auth.php/a/a9/LoveCats_2.0.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Pirate_Coves_1.4.2.oxz
 https://wiki.alioth.net/img_auth.php/d/d1/Cargo_wrecks_teaser_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/AsteroidStorm_4.3.oxz
