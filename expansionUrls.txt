@@ -464,7 +464,7 @@ https://wiki.alioth.net/img_auth.php/b/b1/AsteroidRandomizer_0.1.oxz
 https://wiki.alioth.net/img_auth.php/6/6f/ClassicShips%28Replace%29_v1.4.oxz
 https://wiki.alioth.net/img_auth.php/5/5b/ClassicShips%28Addition%29_v1.4.oxz
 https://wiki.alioth.net/img_auth.php/1/11/Staer9_shipset_1.4.1.oxz
-https://wiki.alioth.net/img_auth.php/0/05/Separated_Lasers_1.2.oxz
+https://wiki.alioth.net/img_auth.php/3/33/Separated_Lasers_1.3.oxz
 https://wiki.alioth.net/img_auth.php/4/40/Market_cooldown_0.3.oxz
 https://wiki.alioth.net/img_auth.php/5/5c/Yah_gem_casino_1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/d/d0/MFDRestoreAfterLoad_0.1.oxz
