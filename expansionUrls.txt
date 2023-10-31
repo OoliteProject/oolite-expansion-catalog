@@ -654,7 +654,7 @@ https://wiki.alioth.net/img_auth.php/a/aa/OrangED_HUD_0.2.0.oxz
 https://wiki.alioth.net/img_auth.php/e/e8/Distant_Space.oxz
 https://wiki.alioth.net/img_auth.php/d/d7/Yah_fuel_station_1.0.oxz
 https://wiki.alioth.net/img_auth.php/0/0f/RealisticStars_ssc.oxz
-https://wiki.alioth.net/img_auth.php/d/da/Targeter.oxz
+https://wiki.alioth.net/img_auth.php/8/88/Targeter_0.73.oxz
 https://wiki.alioth.net/img_auth.php/f/f5/Bullet_Drive_1.0.3.oxz
 https://wiki.alioth.net/img_auth.php/9/96/Police_IFF_Scanner.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/Dockside_Services_1.0.oxz
