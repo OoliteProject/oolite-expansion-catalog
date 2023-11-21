@@ -391,7 +391,7 @@ https://wiki.alioth.net/img_auth.php/8/86/Sniper_Gun_rebalancer.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/FontXolonium.oxz
 https://wiki.alioth.net/img_auth.php/3/3f/FontOCRAExtended.oxz
 https://wiki.alioth.net/img_auth.php/0/05/ChangeViewSound.oxz
-https://wiki.alioth.net/img_auth.php/c/c3/Navigation_MFD_1.9.1.oxz
+https://wiki.alioth.net/img_auth.php/9/9a/Navigation_MFD_1.9.2.oxz
 https://wiki.alioth.net/img_auth.php/8/81/Taxi_Galactica_2.1.oxz
 https://wiki.alioth.net/img_auth.php/2/23/Gsagostinho.TexturePack.CobraMkIII.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/FontDiscognate.oxz
@@ -758,7 +758,7 @@ https://wiki.alioth.net/img_auth.php/a/a9/LoveCats_2.0.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Pirate_Coves_1.4.2.oxz
 https://wiki.alioth.net/img_auth.php/d/d1/Cargo_wrecks_teaser_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/AsteroidStorm_4.3.oxz
-https://wiki.alioth.net/img_auth.php/9/9b/BigShips_1.3.oxz
+https://wiki.alioth.net/img_auth.php/6/61/BigShips_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Famous_Planets_2.7.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/CustomShields_0.83.oxz
 https://wiki.alioth.net/img_auth.php/7/72/Q-Bomb_Detector_1.4.oxz
