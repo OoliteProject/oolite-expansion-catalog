@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 #
 
+https://wiki.alioth.net/img_auth.php/6/62/LaveInitialShipyard.oxz
 https://wiki.alioth.net/img_auth.php/2/21/WildShips_Facelift_1.1.oxz
 https://wiki.alioth.net/img_auth.php/f/ff/GlobeStation_2.1.oxz
 https://wiki.alioth.net/img_auth.php/4/42/BlackMarket_1.1.oxz
