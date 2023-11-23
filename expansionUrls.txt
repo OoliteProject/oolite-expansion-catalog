@@ -165,7 +165,7 @@ https://wiki.alioth.net/img_auth.php/2/27/Deep_Horizon_Emergency_Witchspace_Init
 https://wiki.alioth.net/img_auth.php/2/22/Oolite.oxp.Thargoid.TrafficControl.2.02.oxz
 https://wiki.alioth.net/img_auth.php/6/61/BroadcastComms_Digebiti_Variations.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/PlanetarySystems.oxz
-https://wiki.alioth.net/img_auth.php/0/0e/Generation_Ships.oxz
+https://wiki.alioth.net/img_auth.php/d/d7/Generation_Ships_1.6.oxz
 https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
