@@ -125,7 +125,7 @@ https://wiki.alioth.net/img_auth.php/3/3f/FactoryPaintJobs_Asp.oxz
 https://wiki.alioth.net/img_auth.php/f/f5/FactoryPaintJobs_Boa_1.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/FactoryPaintJobs_Anaconda_1.2.oxz
 https://wiki.alioth.net/img_auth.php/c/cf/FactoryPaintJobs_Adder.oxz
-https://wiki.alioth.net/img_auth.php/7/7c/BulletinBoardSystem_2.4.oxz
+https://wiki.alioth.net/img_auth.php/a/af/BulletinBoardSystem_2.5.oxz
 https://wiki.alioth.net/img_auth.php/b/be/GalCopMissions.oxz
 https://wiki.alioth.net/img_auth.php/d/de/Ship_Storage_Helper_0.38.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/StationDockControl.oxz
