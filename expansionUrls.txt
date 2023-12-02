@@ -128,7 +128,7 @@ https://wiki.alioth.net/img_auth.php/c/cf/FactoryPaintJobs_Adder.oxz
 https://wiki.alioth.net/img_auth.php/a/af/BulletinBoardSystem_2.5.oxz
 https://wiki.alioth.net/img_auth.php/6/6f/GalCopMIssions_0.6.8.oxz
 https://wiki.alioth.net/img_auth.php/d/de/Ship_Storage_Helper_0.38.oxz
-https://wiki.alioth.net/img_auth.php/d/dd/StationDockControl.oxz
+https://wiki.alioth.net/img_auth.php/3/38/StationDockControl_1.1.27.oxz
 https://www.dl.dropboxusercontent.com/s/sc0ncl2bil8fcfe/RoutePlanner.0.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Oolite.oxp.zzz.Montana05.griff.hognose.OXZ
 https://wiki.alioth.net/img_auth.php/b/b1/ContractsOnBB.oxz
