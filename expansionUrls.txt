@@ -98,7 +98,7 @@ https://wiki.alioth.net/img_auth.php/9/94/Oolite.oxp.Killer_Wolf.Adder_Mark_III.
 https://wiki.alioth.net/img_auth.php/5/5d/Oolite.oxp.zzz.Montana05.adck_bulk_haulers.oxz
 https://wiki.alioth.net/img_auth.php/1/16/SaveInFlight-1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/c/c7/Oolite.oxp.Griff.SpecGloss-Sidewinder.oxz
-https://wiki.alioth.net/img_auth.php/0/05/RepairBots-2.14.oxz
+https://wiki.alioth.net/img_auth.php/d/d9/RepairBots_2.15.oxz
 https://wiki.alioth.net/img_auth.php/4/40/NpcEnergyUnits-1.0.2.oxz
 https://wiki.alioth.net/img_auth.php/b/b4/ShieldEqualizerAndCapacitors-1.8.oxz
 https://wiki.alioth.net/img_auth.php/5/51/UsefulMFDs.0.6.oxz
