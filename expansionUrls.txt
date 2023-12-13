@@ -505,7 +505,7 @@ https://wiki.alioth.net/img_auth.php/1/1d/Fighter_hud_mkii_1.4.1.oxz
 https://wiki.alioth.net/img_auth.php/c/c5/Singel-Use_Witchdrive-0.9.2.oxz
 https://wiki.alioth.net/img_auth.php/4/4a/FontDangerousSquare.oxz
 https://wiki.alioth.net/img_auth.php/2/26/Oolite.oxp.amah.noshaders_Mimoriarty_rl_ships.oxz
-https://wiki.alioth.net/img_auth.php/1/1e/MiningContracts_1.12.oxz
+https://wiki.alioth.net/img_auth.php/7/73/MiningContracts_1.13.oxz
 https://wiki.alioth.net/img_auth.php/a/a6/Blackmonks_2.2.1.oxz
 https://wiki.alioth.net/img_auth.php/6/6a/Oolite.oxp.amah.noshaders_missingcoreships.oxz
 https://wiki.alioth.net/img_auth.php/0/03/MinerCobra_1.4.oxz
