@@ -6,7 +6,7 @@
 # - Empty lines (zero length or just whitespace) are ignored
 # - it is recommended to sort the URLs to easily spot duplicated.
 #   Check the generator's pedantic mode.
-# 
+#
 
 https://wiki.alioth.net/img_auth.php/e/e1/MissileSummary.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/ExpandedWeaponInfo.oxz
