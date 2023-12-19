@@ -56,7 +56,7 @@ https://wiki.alioth.net/img_auth.php/a/ae/TionislaOrbitalGraveyard_Memorials.oxz
 https://wiki.alioth.net/img_auth.php/a/a6/TionislaOrbitalGraveyard.oxz
 https://wiki.alioth.net/img_auth.php/1/1b/TionislaOrbitalGraveyard_Monuments.oxz
 https://wiki.alioth.net/img_auth.php/5/58/SystemDataConfig.oxz
-https://wiki.alioth.net/img_auth.php/a/a8/GalCopGalacticRegistry_5.5.oxz
+https://wiki.alioth.net/img_auth.php/a/a0/GalCopGalacticRegistry_5.6.oxz
 https://wiki.alioth.net/img_auth.php/e/e4/CommsLogMFD.oxz
 https://wiki.alioth.net/img_auth.php/3/37/Oolite.oxp.redspear.fighter_explorers.oxz
 https://wiki.alioth.net/img_auth.php/4/49/TionislaChronicleArray.oxz
@@ -172,7 +172,7 @@ https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
-https://wiki.alioth.net/img_auth.php/1/16/Smugglers_2.1.1.oxz
+https://wiki.alioth.net/img_auth.php/2/2c/Smugglers_2.2.oxz
 https://wiki.alioth.net/img_auth.php/0/0c/NoMarketNotification_1.3.oxz
 https://wiki.alioth.net/img_auth.php/d/db/EquipmentStorage_1.8.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
