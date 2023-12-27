@@ -353,7 +353,7 @@ https://wiki.alioth.net/img_auth.php/8/87/TorusToSun_1.7.oxz
 https://wiki.alioth.net/img_auth.php/f/ff/Oolite.oxp.Griff.Prototype_Boa.oxz
 https://wiki.alioth.net/img_auth.php/8/83/LogEvents_1.4.oxz
 https://wiki.alioth.net/img_auth.php/2/25/ReverseControl_1.8.oxz
-https://wiki.alioth.net/img_auth.php/8/83/XenonUIResources.oxz
+https://wiki.alioth.net/img_auth.php/3/34/XenonUIResourcesA.oxz
 https://wiki.alioth.net/img_auth.php/b/bc/XenonUIResourcesB.oxz
 https://wiki.alioth.net/img_auth.php/4/46/XenonUIResourcesC.oxz
 https://wiki.alioth.net/img_auth.php/d/df/XenonUIResourcesD.oxz
