@@ -756,7 +756,7 @@ https://wiki.alioth.net/img_auth.php/4/4e/MissileAnalyser_1.2.oxz
 https://wiki.alioth.net/img_auth.php/f/f9/Ionics_1.3.1.oxz
 https://wiki.alioth.net/img_auth.php/8/84/Deposed_1.4.oxz
 https://wiki.alioth.net/img_auth.php/d/db/MilitaryFiasco_2.5.3.oxz
-https://wiki.alioth.net/img_auth.php/6/6a/Taranis_2.0.1.oxz
+https://wiki.alioth.net/img_auth.php/4/4e/Taranis_2.0.2.oxz
 https://wiki.alioth.net/img_auth.php/a/a9/LoveCats_2.0.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Pirate_Coves_1.4.2.oxz
 https://wiki.alioth.net/img_auth.php/d/d1/Cargo_wrecks_teaser_1.7.2.oxz
