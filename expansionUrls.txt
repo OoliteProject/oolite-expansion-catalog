@@ -72,7 +72,7 @@ https://wiki.alioth.net/img_auth.php/e/ed/Oolite.oxp.redspear.janes_galactic_shi
 https://wiki.alioth.net/img_auth.php/9/92/EscortDeck-1.12.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/EnhancedPassengerContracts.oxz
 https://wiki.alioth.net/img_auth.php/5/5e/Teleportation_Drive.oxz
-https://wiki.alioth.net/img_auth.php/b/be/Cargo_Pods.oxz
+https://wiki.alioth.net/img_auth.php/7/7e/Cargo_Pods_1.2.oxz
 https://wiki.alioth.net/img_auth.php/b/b7/Overdrive.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/Auto_SOS.oxz
 https://wiki.alioth.net/img_auth.php/4/40/Elite_Trader_Meta.oxz
@@ -84,7 +84,7 @@ https://wiki.alioth.net/img_auth.php/3/33/Oolite.redspear.solos_alt_stations.oxz
 https://wiki.alioth.net/img_auth.php/5/54/Oolite.oxp.redspear.galdrive_reimagined.oxz
 https://wiki.alioth.net/img_auth.php/2/26/Auxiliary_Pylon.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/Cargo_Space_Refit.oxz
-https://wiki.alioth.net/img_auth.php/c/c3/Goods_Containers.oxz
+https://wiki.alioth.net/img_auth.php/d/db/Goods_Containers_2.1.oxz
 https://wiki.alioth.net/img_auth.php/f/fd/Oolite.oxp.redspear.weapon_laws.oxz
 https://wiki.alioth.net/img_auth.php/4/44/HyperspaceHangar-1.17.0.oxz
 https://wiki.alioth.net/img_auth.php/b/b1/Oolite.oxp.redspear.tech_shuffle.oxz
