@@ -229,7 +229,7 @@ https://wiki.alioth.net/img_auth.php/3/35/PlanetarySystemsTexturePack_C.oxz
 https://wiki.alioth.net/img_auth.php/8/8d/PlanetarySystemsTexturePack_B.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/PlanetarySystemsTexturePack_A.oxz
 https://wiki.alioth.net/img_auth.php/7/7c/SniperLock_Fix-1.0.oxz
-https://wiki.alioth.net/img_auth.php/9/98/Tianve_2.3.oxz
+https://wiki.alioth.net/img_auth.php/4/4d/Tianve_2.4.oxz
 https://wiki.alioth.net/img_auth.php/3/36/Riredi-1.0.0.oxz
 https://wiki.alioth.net/img_auth.php/8/8f/Fighters_1.5.oxz
 https://wiki.alioth.net/img_auth.php/1/1a/FPO_Lave.oxz
