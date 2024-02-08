@@ -140,7 +140,7 @@ https://wiki.alioth.net/img_auth.php/b/b1/ContractsOnBB.oxz
 https://wiki.alioth.net/img_auth.php/1/19/Oolite.oxp.zzz.Montana05.GalCop_military_missile_G1.OXZ
 https://wiki.alioth.net/img_auth.php/9/92/Oolite.oxp.cholmondely.Hints.0.092.oxz
 https://wiki.alioth.net/img_auth.php/3/36/Oolite.oxp.KillerWolf.SteampunkHUD.oxz
-https://wiki.alioth.net/img_auth.php/5/5a/Nuit_Station_2.2.oxz
+https://wiki.alioth.net/img_auth.php/3/33/Nuit_Station_2.3.oxz
 https://wiki.alioth.net/img_auth.php/3/38/Oolite.oxp.zzz.Montana05.dragonships.OXZ
 https://wiki.alioth.net/img_auth.php/7/7c/Oolite.oxp.UK_Eliter.InterstellarTweaks.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Oolite.oxp.UK_Eliter.Extra_Thargoids.oxz
