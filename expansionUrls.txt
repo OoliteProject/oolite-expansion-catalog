@@ -8,9 +8,10 @@
 #   Check the generator's pedantic mode.
 #
 
-https://wiki.alioth.net/img_auth.php/3/37/SpaceBarFaceLift_1.2.oxz
+https://wiki.alioth.net/img_auth.php/d/d9/PitviperMarkII_Facelift.oxz
+https://wiki.alioth.net/img_auth.php/3/37/SpaceBarFacelift_1.3.oxz
 https://wiki.alioth.net/img_auth.php/4/49/ExternalDockingSystem_1.3.oxz
-https://wiki.alioth.net/img_auth.php/1/18/ExtraRockHermits_1.3.oxz
+https://wiki.alioth.net/img_auth.php/8/8d/ExtraRockHermits_1.4.oxz
 https://wiki.alioth.net/img_auth.php/0/0e/MissileSummary_1.4.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/ExpandedWeaponInfo.oxz
 https://wiki.alioth.net/img_auth.php/6/62/LaveInitialShipyard.oxz
