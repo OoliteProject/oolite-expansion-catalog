@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 #
 
+https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/PitviperMarkII_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/5/5b/SpaceBarFaceLift_1.4.oxz
 https://wiki.alioth.net/img_auth.php/4/49/ExternalDockingSystem_1.3.oxz
