@@ -18,14 +18,14 @@ https://wiki.alioth.net/img_auth.php/5/5f/ExpandedWeaponInfo.oxz
 https://wiki.alioth.net/img_auth.php/6/62/LaveInitialShipyard.oxz
 https://wiki.alioth.net/img_auth.php/2/21/WildShips_Facelift_1.1.oxz
 https://wiki.alioth.net/img_auth.php/f/ff/GlobeStation_2.1.oxz
-https://wiki.alioth.net/img_auth.php/4/42/BlackMarket_1.1.oxz
+https://wiki.alioth.net/img_auth.php/a/a9/BlackMarket_1.2.oxz
 https://wiki.alioth.net/img_auth.php/9/91/RiskyBusiness.oxz
 https://wiki.alioth.net/img_auth.php/d/d8/MarketScriptInterface_1.1.oxz
 https://wiki.alioth.net/img_auth.php/3/3f/BlOomberg_Markets_2.9.oxz
 https://cim.sotl.org.uk/games/files/oolite/Combat_Simulator_1.1.oxz
 https://cim.sotl.org.uk/games/files/oolite/Curse_of_the_Black_Sunspot_1.0.2.oxz
 https://cim.sotl.org.uk/games/files/oolite/Library_Extracts_1.2.oxz
-https://cim.sotl.org.uk/games/files/oolite/New_Cargoes_1.2.3.oxz
+https://wiki.alioth.net/img_auth.php/6/6c/NewCargoes_2.1.oxz
 https://cim.sotl.org.uk/games/files/oolite/Ships_Library_0.8.oxz
 https://cim.sotl.org.uk/games/files/oolite/System_Features_Sunspots_1.5.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Oolite.oxp.amah.noshaders_Mimoriarty_rl_yasenturret_upgrade.oxz
@@ -47,7 +47,7 @@ https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_ful
 https://wiki.alioth.net/img_auth.php/0/07/XenonUI_SWEconomy_Addition.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
 https://wiki.alioth.net/img_auth.php/1/13/VimanaX_HUD_1.17.oxz
-https://wiki.alioth.net/img_auth.php/e/ed/Z-GrOovY_SmallSystemStations_1.9.oxz
+https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Commies_2.19.oxz
 https://wiki.alioth.net/img_auth.php/a/a5/Dictators.oxz
 https://wiki.alioth.net/img_auth.php/d/d4/Escort_Formations_1.3.oxz
@@ -177,7 +177,7 @@ https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
-https://wiki.alioth.net/img_auth.php/2/2c/Smugglers_2.2.oxz
+https://wiki.alioth.net/img_auth.php/1/19/Smugglers_2.3.oxz
 https://wiki.alioth.net/img_auth.php/0/0c/NoMarketNotification_1.3.oxz
 https://wiki.alioth.net/img_auth.php/d/db/EquipmentStorage_1.8.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
@@ -221,7 +221,7 @@ https://wiki.alioth.net/img_auth.php/7/7c/FlyingDutchman-1.7.oxz
 https://wiki.alioth.net/img_auth.php/5/57/DeepSpacePirates-1.9.oxz
 https://wiki.alioth.net/img_auth.php/d/db/BarrelRoll-1.1.oxz
 https://wiki.alioth.net/img_auth.php/0/0e/VimanaHUD-2.07.oxz
-https://wiki.alioth.net/img_auth.php/0/0d/CombatMFD-1.17.oxz
+https://wiki.alioth.net/img_auth.php/7/71/CombatMFD-1.18.oxz
 https://wiki.alioth.net/img_auth.php/9/91/PlanetarySystemsTexturePack_H.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/PlanetarySystemsTexturePack_G.oxz
 https://wiki.alioth.net/img_auth.php/0/07/PlanetarySystemsTexturePack_F.oxz
