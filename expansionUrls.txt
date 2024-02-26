@@ -21,7 +21,7 @@ https://wiki.alioth.net/img_auth.php/f/ff/GlobeStation_2.1.oxz
 https://wiki.alioth.net/img_auth.php/a/a9/BlackMarket_1.2.oxz
 https://wiki.alioth.net/img_auth.php/9/91/RiskyBusiness.oxz
 https://wiki.alioth.net/img_auth.php/d/d8/MarketScriptInterface_1.1.oxz
-https://wiki.alioth.net/img_auth.php/4/4c/SEX_Drive.oxz
+https://wiki.alioth.net/img_auth.php/9/94/Oolite.oxp.Wildeblood.SEX_Drive-1.0.2.oxz
 https://wiki.alioth.net/img_auth.php/3/3f/BlOomberg_Markets_2.9.oxz
 https://cim.sotl.org.uk/games/files/oolite/Combat_Simulator_1.1.oxz
 https://cim.sotl.org.uk/games/files/oolite/Curse_of_the_Black_Sunspot_1.0.2.oxz
