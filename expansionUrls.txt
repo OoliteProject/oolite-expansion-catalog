@@ -196,7 +196,7 @@ https://wiki.alioth.net/img_auth.php/4/43/Oolite.oxp.zzz.Montana05.resource_pack
 https://wiki.alioth.net/img_auth.php/f/f6/Oolite.oxp.zzz.Montana05.Kestrel_Falcon.OXZ
 https://wiki.alioth.net/img_auth.php/9/92/GalCopMostWanted.oxz
 https://wiki.alioth.net/img_auth.php/f/f1/EmailSystem.oxz
-https://github.com/DaymareOn/Diplomacy/blob/master/oolite.oxp.Day.Diplomacy.oxz
+https://wiki.alioth.net/img_auth.php/1/19/Diplomacy.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/Oolite.oxp.redspear.escape_pod_as_standard.oxz
 https://wiki.alioth.net/img_auth.php/5/57/Oolite.oxp.redspear.paddling_pool.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/Oolite.oxp.redspear.cargo_scoop_as_standard.oxz
