@@ -118,8 +118,7 @@ https://www.dl.dropboxusercontent.com/s/5c4bbeuw6ntlzs0/InterfaceReordering.0.2.
 https://wiki.alioth.net/img_auth.php/e/ef/ShipRepurchase.oxz
 https://wiki.alioth.net/img_auth.php/6/64/Oolite.oxp.zzz.Montana05_Taranis_outrider.OXZ
 https://wiki.alioth.net/img_auth.php/8/80/MaintenanceTuneUp.oxz
-https://wiki.alioth.net/img_auth.php/d/dc/PlanetOceans.oxz
-https://wiki.alioth.net/img_auth.php/8/87/PlanetForests.oxz
+https://wiki.alioth.net/img_auth.php/e/ec/PlanetForestsAndOceans.oxz
 https://wiki.alioth.net/img_auth.php/b/bc/FactoryPaintJobs_Sidewinder_1.1.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/FactoryPaintJobs_Python.oxz
 https://wiki.alioth.net/img_auth.php/3/39/FactoryPaintJobs_Moray_1.2.oxz
