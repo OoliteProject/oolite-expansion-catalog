@@ -622,7 +622,7 @@ https://wiki.alioth.net/img_auth.php/7/77/Audible_Docking_Clearance_1.3.1.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/Random_player_1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/7/71/Gallery_1.21.oxz
 https://wiki.alioth.net/img_auth.php/6/67/Oolite.oxp.Vincentz.NovaLuxHUD.oxz
-https://wiki.alioth.net/img_auth.php/0/05/BattleDamage_v1.4.oxz
+https://wiki.alioth.net/img_auth.php/2/29/BattleDamage_1.5.oxz
 https://wiki.alioth.net/img_auth.php/4/42/Cup_of_Tea-v1.2.oxz
 https://wiki.alioth.net/img_auth.php/c/c2/Aliens_v1.2.oxz
 https://wiki.alioth.net/img_auth.php/3/32/GiantSpacePizza_v3.1.oxz
