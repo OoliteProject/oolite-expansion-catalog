@@ -31,7 +31,7 @@ https://cim.sotl.org.uk/games/files/oolite/Combat_Simulator_1.1.oxz
 https://cim.sotl.org.uk/games/files/oolite/Curse_of_the_Black_Sunspot_1.0.2.oxz
 https://cim.sotl.org.uk/games/files/oolite/Library_Extracts_1.2.oxz
 https://wiki.alioth.net/img_auth.php/6/6c/NewCargoes_2.1.oxz
-https://wiki.alioth.net/img_auth.php/b/b7/Ships_Library_0.8.oxz
+https://wiki.alioth.net/img_auth.php/0/0f/Ships_Library_0.8.1.oxz
 https://wiki.alioth.net/img_auth.php/e/eb/Ships_Library_0.9.oxz
 https://cim.sotl.org.uk/games/files/oolite/System_Features_Sunspots_1.5.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Oolite.oxp.amah.noshaders_Mimoriarty_rl_yasenturret_upgrade.oxz
