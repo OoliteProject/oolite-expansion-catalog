@@ -9,7 +9,7 @@
 #
 
 https://wiki.alioth.net/img_auth.php/e/eb/DeepSpaceDredgers_Facelift_1.1.oxz
-https://wiki.alioth.net/img_auth.php/1/13/Coyotes_Run_2.3.oxz
+https://wiki.alioth.net/img_auth.php/0/08/Coyotes_Run_2.4.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Cataclysm_2.1.oxz
 https://wiki.alioth.net/img_auth.php/f/ff/Lave_2.1.oxz
 https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
