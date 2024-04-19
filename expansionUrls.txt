@@ -42,7 +42,7 @@ https://wiki.alioth.net/img_auth.php/5/52/Military_Fuel_Injectors_1.03.oxz
 https://wiki.alioth.net/img_auth.php/8/8e/Oolite.oxp.redspear.additional_planets_sr_demux_volcanic.oxz
 https://wiki.alioth.net/img_auth.php/8/8f/Additional_planets_sr_demux_gas_giants_1.1.oxz
 https://wiki.alioth.net/img_auth.php/9/91/Additional_planets_sr_pack_redux_1.1.oxz
-https://wiki.alioth.net/img_auth.php/8/80/HUDSelector-1.26.oxz
+https://wiki.alioth.net/img_auth.php/4/47/HUDSelector-1.27.oxz
 https://wiki.alioth.net/img_auth.php/9/99/Oolite.oxp.amah.noshaders_accessories_replace.oxz
 https://wiki.alioth.net/img_auth.php/9/9c/Oolite.oxp.zzz.Montana05.GalTech_constitution_class_heavy_cruiser_Fix_V051.OXZ
 https://wiki.alioth.net/img_auth.php/b/b3/Oolite.oxp.zzz.Montana05.GalTech_colonial_viper_mark_I_Restore.OXZ
@@ -226,7 +226,7 @@ https://wiki.alioth.net/img_auth.php/7/7c/FlyingDutchman-1.7.oxz
 https://wiki.alioth.net/img_auth.php/5/57/DeepSpacePirates-1.9.oxz
 https://wiki.alioth.net/img_auth.php/d/db/BarrelRoll-1.1.oxz
 https://wiki.alioth.net/img_auth.php/0/0e/VimanaHUD-2.07.oxz
-https://wiki.alioth.net/img_auth.php/7/71/CombatMFD-1.18.oxz
+https://wiki.alioth.net/img_auth.php/6/6d/CombatMFD-1.19.oxz
 https://wiki.alioth.net/img_auth.php/9/91/PlanetarySystemsTexturePack_H.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/PlanetarySystemsTexturePack_G.oxz
 https://wiki.alioth.net/img_auth.php/0/07/PlanetarySystemsTexturePack_F.oxz
