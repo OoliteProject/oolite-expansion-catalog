@@ -19,7 +19,7 @@ jobs:
         id: download
         uses: robinraju/release-downloader@v1.8
         with:
-          repository: "HiranChaudhuri/OoliteAddonScanner"
+          repository: "OoliteProject/OoliteAddonScanner"
 
           # A flag to set the download target as latest release
           # The default value is 'false'
