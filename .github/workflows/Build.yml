@@ -143,6 +143,23 @@ jobs:
           git add .
           git commit --allow-empty -a -m "${{github.repository}} Job ${{github.job}} Run ${{github.run_number}}"
 
+      # This step will push the changed documents into oolite-web. For this we need to have
+      # access privileges. In case you need to recreate/repair the setup:
+      # 
+      # Go to the repository's
+      # Settings/Secrets and variables/Actions.
+      # In there you can configure variables and secrets. Look at the secret named 
+      # oolite_web_expansions_catalog_manager. Likely you cannot read it. But it can
+      # be filled with a never-expiring personal access token.
+      #
+      # To generate a personal access token (and here comes the personal account - can we 
+      # create something on organization level?): Go to
+      # Top right menu (your user avatar)/Settings/Developer Settings/Personal access tokens/Tokens (classic)
+      # Create a token named oolite-web-expansions-catalog-manager and tic the boxes
+      #   - repo:status
+      #   - repo_deployment
+      #   - public_repo
+      #
       - name: Push changes
         if: github.ref == 'refs/heads/main'
         uses: ad-m/github-push-action@master
