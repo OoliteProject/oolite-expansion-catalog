@@ -8,7 +8,7 @@
 #   Check the generator's pedantic mode.
 #
 
-https://wiki.alioth.net/img_auth.php/e/eb/DeepSpaceDredgers_Facelift_1.1.oxz
+https://wiki.alioth.net/img_auth.php/2/2f/DeepSpaceDredgers_Facelift_1.2.oxz
 https://wiki.alioth.net/img_auth.php/c/c7/Coyotes_Run_2.5.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Cataclysm_2.1.oxz
 https://wiki.alioth.net/img_auth.php/f/ff/Lave_2.1.oxz
