@@ -8,6 +8,8 @@
 #   Check the generator's pedantic mode.
 #
 
+https://wiki.alioth.net/img_auth.php/1/1d/LoadoutByCategory_190.oxz
+https://wiki.alioth.net/img_auth.php/4/49/LoadoutByCategory.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Draven_2.0.oxz
 https://wiki.alioth.net/img_auth.php/d/d4/Feudal_PlanetFall2.oxz
 https://wiki.alioth.net/img_auth.php/f/f5/PlanetFall_Resources.oxz
