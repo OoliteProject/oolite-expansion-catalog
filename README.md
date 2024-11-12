@@ -27,7 +27,7 @@ The file expansionUrls.txt hosts the list of known expansions.
  - Have one URL per line
  - Lines starting with hash are considered comments and ignored
  - Empty lines (zero length or just whitespace) are ignored
- - it is recommended to sort the URLs to easily spot duplicated.
+ - it is recommended to sort the URLs to easily spot duplicates.
    Check the generator's pedantic mode.
    
 ### Processing
