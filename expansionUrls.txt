@@ -646,7 +646,11 @@ https://wiki.alioth.net/img_auth.php/f/fe/Station_Self-Destruction_Codes.oxz
 https://wiki.alioth.net/img_auth.php/c/c5/NumericHUD_3.27.oxz
 https://wiki.alioth.net/img_auth.php/8/8f/Andromeda_1.5.oxz
 https://wiki.alioth.net/img_auth.php/f/fb/Oolite.oxp.amah.noshaders_alternateships.oxz
-https://wiki.alioth.net/img_auth.php/d/dc/Vector_1.7.2.oxz
+
+# Vector OXP is only compatible to Oolite 1.76 but does not declare so.
+# Hence it is commented out until further update.
+# https://wiki.alioth.net/img_auth.php/d/dc/Vector_1.7.2.oxz
+
 https://wiki.alioth.net/img_auth.php/d/de/Oolite.oxp.amah.noshaders_extraships-1.1.oxz
 https://cim.sotl.org.uk/games/files/oolite/EnergyBomb_1.0.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2c/Reduce_Weapon_Damage_0.10.oxz
