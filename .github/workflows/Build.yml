@@ -170,7 +170,7 @@ jobs:
           github_token: ${{ secrets.oolite_web_expansions_catalog_manager }}
 
       - name: Upload github pages artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: output/OoliteExpansionIndex
 
