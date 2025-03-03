@@ -789,5 +789,6 @@ https://wiki.alioth.net/img_auth.php/6/63/Famous_Planets_2.7.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/CustomShields_0.83.oxz
 https://wiki.alioth.net/img_auth.php/c/c6/Oolite.oxp.Gilhad.EquipmentExpensiveItemColor.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Oolite.oxp.davidkroc.sidewinder-ng.oxz
+https://wiki.alioth.net/img_auth.php/c/c1/Oolite.oxp.mils32k.EnergyContainmentUnit.oxz
 https://wiki.alioth.net/img_auth.php/7/72/Q-Bomb_Detector_1.4.oxz
 
