@@ -181,7 +181,7 @@ jobs:
           keep_latest: 12
           delete_tag_pattern: "${{github.ref_name}}-"
           delete_type: 'release'
-          target_branch: 'main'
+          delete_branch: 'main'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -221,4 +221,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
