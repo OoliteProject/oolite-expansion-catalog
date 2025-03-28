@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 #
 
+https://wiki.alioth.net/img_auth.php/8/88/Oolite.oxp.Zafrusteria.ShrewsRights.oxz
 https://wiki.alioth.net/img_auth.php/5/5d/SiliconeSealant.oxz
 https://wiki.alioth.net/img_auth.php/1/19/PlanetRotationCosmetics.oxz
 https://wiki.alioth.net/img_auth.php/1/1d/LoadoutByCategory_190.oxz
@@ -712,7 +713,7 @@ https://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
 https://wiki.alioth.net/img_auth.php/5/50/BetterScreens.oxz
 https://wiki.alioth.net/img_auth.php/2/27/Glare_filter_1.0.oxz
 https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
-https://wiki.alioth.net/images/f/f3/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.5.oxz
+https://wiki.alioth.net/img_auth.php/b/be/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.64.oxz
 https://cim.sotl.org.uk/games/files/oolite/ShipsetCompatibility_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
 https://wiki.alioth.net/img_auth.php/1/1f/PlanetFall2.oxz
