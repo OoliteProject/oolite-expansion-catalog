@@ -235,7 +235,7 @@ https://wiki.alioth.net/img_auth.php/7/7c/FlyingDutchman-1.7.oxz
 https://wiki.alioth.net/img_auth.php/5/57/DeepSpacePirates-1.9.oxz
 https://wiki.alioth.net/img_auth.php/d/db/BarrelRoll-1.1.oxz
 https://wiki.alioth.net/img_auth.php/0/0e/VimanaHUD-2.07.oxz
-https://wiki.alioth.net/img_auth.php/b/bd/CombatMFD-1.20.oxz
+https://wiki.alioth.net/img_auth.php/6/66/CombatMFD-1.21.oxz
 https://wiki.alioth.net/img_auth.php/9/91/PlanetarySystemsTexturePack_H.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/PlanetarySystemsTexturePack_G.oxz
 https://wiki.alioth.net/img_auth.php/0/07/PlanetarySystemsTexturePack_F.oxz
