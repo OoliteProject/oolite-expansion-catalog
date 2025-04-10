@@ -314,7 +314,7 @@ https://wiki.alioth.net/img_auth.php/f/f3/CargoScanner.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Oolite.oxp.cheyd.dhi_nav_buoy.oxz
 https://wiki.alioth.net/img_auth.php/9/96/DisplayCurrentCourse.oxz
 https://wiki.alioth.net/img_auth.php/3/36/LinersMarkets.oxz
-https://wiki.alioth.net/img_auth.php/5/58/ ison.oxz
+https://wiki.alioth.net/img_auth.php/5/58/ShipComparison.oxz
 https://wiki.alioth.net/img_auth.php/2/25/SolarFlares.oxz
 https://wiki.alioth.net/img_auth.php/2/2b/AutoPrimeEquipment.oxz
 https://wiki.alioth.net/img_auth.php/c/c8/Tionisla_Reporter.oxz
