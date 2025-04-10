@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 #
 
+https://wiki.alioth.net/img_auth.php/d/d9/WireframeShipImages.oxz
 https://wiki.alioth.net/img_auth.php/8/81/ContextualHelp.oxz
 https://wiki.alioth.net/img_auth.php/8/88/Oolite.oxp.Zafrusteria.ShrewsRights.oxz
 https://wiki.alioth.net/img_auth.php/5/5d/SiliconeSealant.oxz
@@ -313,7 +314,7 @@ https://wiki.alioth.net/img_auth.php/f/f3/CargoScanner.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Oolite.oxp.cheyd.dhi_nav_buoy.oxz
 https://wiki.alioth.net/img_auth.php/9/96/DisplayCurrentCourse.oxz
 https://wiki.alioth.net/img_auth.php/3/36/LinersMarkets.oxz
-https://wiki.alioth.net/img_auth.php/5/58/ShipComparison.oxz
+https://wiki.alioth.net/img_auth.php/5/58/ ison.oxz
 https://wiki.alioth.net/img_auth.php/2/25/SolarFlares.oxz
 https://wiki.alioth.net/img_auth.php/2/2b/AutoPrimeEquipment.oxz
 https://wiki.alioth.net/img_auth.php/c/c8/Tionisla_Reporter.oxz
@@ -357,7 +358,7 @@ https://wiki.alioth.net/img_auth.php/f/fb/Gsagostinho.DangerousHUD.GreenVariant.
 https://wiki.alioth.net/img_auth.php/7/72/Gsagostinho.DangerousHUD.BlueVariant.oxz
 https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
-https://wiki.alioth.net/img_auth.php/f/f2/Library1.7.1.oxz
+https://wiki.alioth.net/img_auth.php/a/a6/Library_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/8/87/Sfep_stations_2.0.1.oxz
 https://wiki.alioth.net/img_auth.php/6/66/Sfep_base_2.0.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
