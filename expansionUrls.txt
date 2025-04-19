@@ -8,6 +8,10 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/a/a5/Distant_Locales.oxz
+https://wiki.alioth.net/img_auth.php/e/e3/Distant_Realms.oxz
+https://wiki.alioth.net/img_auth.php/b/b9/Distant_Realms_US.oxz
+https://wiki.alioth.net/img_auth.php/0/05/DistantSpace.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/WireframeShipImages.oxz
 https://wiki.alioth.net/img_auth.php/8/81/ContextualHelp.oxz
 https://wiki.alioth.net/img_auth.php/8/88/Oolite.oxp.Zafrusteria.ShrewsRights.oxz
