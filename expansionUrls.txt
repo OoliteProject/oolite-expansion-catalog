@@ -758,7 +758,7 @@ https://wiki.alioth.net/img_auth.php/c/cb/Stealth_1.05.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/Ring_Racer_1.21.oxz
 https://wiki.alioth.net/img_auth.php/1/1a/Retro_Rockets_1.00.oxz
 https://wiki.alioth.net/img_auth.php/0/09/Lazarus_1.00.oxz
-https://wiki.alioth.net/img_auth.php/c/c8/Laser_Booster_2.0.oxz
+https://wiki.alioth.net/img_auth.php/8/82/Laser_Booster_2.1.oxz
 https://wiki.alioth.net/img_auth.php/6/68/APRIL_1.03.oxz
 https://wiki.alioth.net/img_auth.php/3/39/Energy_Equipment_1.11.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/Swarm_1.03.oxz
