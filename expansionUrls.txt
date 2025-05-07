@@ -199,7 +199,7 @@ https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/Smugglers_2.5.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
-https://wiki.alioth.net/img_auth.php/9/91/EquipmentStorage_1.10.oxz
+https://wiki.alioth.net/img_auth.php/1/18/EquipmentStorage_1.11.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
 https://wiki.alioth.net/img_auth.php/0/03/ManualWitchspaceAlignment_2.10.oxz
@@ -758,7 +758,7 @@ https://wiki.alioth.net/img_auth.php/c/cb/Stealth_1.05.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/Ring_Racer_1.21.oxz
 https://wiki.alioth.net/img_auth.php/1/1a/Retro_Rockets_1.00.oxz
 https://wiki.alioth.net/img_auth.php/0/09/Lazarus_1.00.oxz
-https://wiki.alioth.net/img_auth.php/8/82/Laser_Booster_2.1.oxz
+https://wiki.alioth.net/img_auth.php/e/e8/Laser_Booster_2.2.oxz
 https://wiki.alioth.net/img_auth.php/6/68/APRIL_1.03.oxz
 https://wiki.alioth.net/img_auth.php/3/39/Energy_Equipment_1.11.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/Swarm_1.03.oxz
