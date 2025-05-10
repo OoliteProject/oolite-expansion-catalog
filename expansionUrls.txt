@@ -69,7 +69,7 @@ https://wiki.alioth.net/img_auth.php/c/cc/Oolite.oxp.Cholmondeley.Lore_Collectio
 https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_fullsize-textures.oxz
 https://wiki.alioth.net/img_auth.php/0/07/XenonUI_SWEconomy_Addition.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
-https://wiki.alioth.net/img_auth.php/7/73/VimanaX_HUD_1.23.oxz
+https://wiki.alioth.net/img_auth.php/d/d9/VimanaX_HUD_1.24.oxz
 https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Commies_2.19.oxz
 https://wiki.alioth.net/img_auth.php/e/e9/Dictators_2.7.oxz
