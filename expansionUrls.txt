@@ -69,7 +69,7 @@ https://wiki.alioth.net/img_auth.php/c/cc/Oolite.oxp.Cholmondeley.Lore_Collectio
 https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_fullsize-textures.oxz
 https://wiki.alioth.net/img_auth.php/0/07/XenonUI_SWEconomy_Addition.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
-https://wiki.alioth.net/img_auth.php/d/d9/VimanaX_HUD_1.24.oxz
+https://wiki.alioth.net/img_auth.php/8/80/VimanaX_HUD_1.25.oxz
 https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Commies_2.19.oxz
 https://wiki.alioth.net/img_auth.php/e/e9/Dictators_2.7.oxz
@@ -203,7 +203,7 @@ https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/f/f1/EquipmentStorage_1.12.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
-https://wiki.alioth.net/img_auth.php/0/03/ManualWitchspaceAlignment_2.10.oxz
+https://wiki.alioth.net/img_auth.php/7/7b/ManualWitchspaceAlignment_2.11.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/CompressedF7Layout.oxz
 https://wiki.alioth.net/img_auth.php/0/05/Oolite.oxp.zzz.Montana05.ZPG_fer_de_pai.OXZ
 https://wiki.alioth.net/img_auth.php/2/20/LongWayRound.oxz
@@ -371,7 +371,7 @@ https://wiki.alioth.net/img_auth.php/5/5d/Cim.gsagostinho.SystemFeatures.Rings.o
 https://wiki.alioth.net/img_auth.php/3/32/NightAdder_EscortDeck.oxz
 https://wiki.alioth.net/img_auth.php/3/34/Ace56_Hornet.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Ace56_Cruzer.oxz
-https://wiki.alioth.net/img_auth.php/b/b3/ShipRespray_1.3.8.oxz
+https://wiki.alioth.net/img_auth.php/e/e0/ShipRespray_1.3.9.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/Z-GrOovY_VarietyPack_2.1.oxz
 https://wiki.alioth.net/img_auth.php/c/c0/Oolite.oxp.Griff.Boa_MkII.oxz
 https://wiki.alioth.net/img_auth.php/6/66/Gsagostinho.CobraMkIV.oxz
@@ -744,7 +744,7 @@ https://wiki.alioth.net/img_auth.php/7/77/YAH_Witchpoint_Override_1.00.oxz
 https://wiki.alioth.net/img_auth.php/8/84/YAH_Constore_Remover_1.00.oxz
 https://wiki.alioth.net/img_auth.php/7/79/YAH_Mobile_1.00.oxz
 https://wiki.alioth.net/img_auth.php/1/19/NuVipers_1.01.oxz
-https://wiki.alioth.net/img_auth.php/c/cf/Att1_2.0.oxz
+https://wiki.alioth.net/img_auth.php/8/8d/Att1_2.1.oxz
 https://wiki.alioth.net/img_auth.php/8/85/Trident_Down_2.5.2.oxz
 https://wiki.alioth.net/img_auth.php/a/a1/Fuel_Tank_2.2.oxz
 https://wiki.alioth.net/img_auth.php/e/e8/BGS-Soundset_Pagroove_2.3.oxz
