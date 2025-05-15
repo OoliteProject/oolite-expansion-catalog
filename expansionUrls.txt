@@ -203,7 +203,7 @@ https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/f/f1/EquipmentStorage_1.12.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
-https://wiki.alioth.net/img_auth.php/7/7b/ManualWitchspaceAlignment_2.11.oxz
+https://wiki.alioth.net/img_auth.php/2/2d/ManualWitchspaceAlignment_2.12.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/CompressedF7Layout.oxz
 https://wiki.alioth.net/img_auth.php/0/05/Oolite.oxp.zzz.Montana05.ZPG_fer_de_pai.OXZ
 https://wiki.alioth.net/img_auth.php/2/20/LongWayRound.oxz
@@ -590,7 +590,7 @@ https://wiki.alioth.net/img_auth.php/8/89/Manifest_mfd_1.1.2.oxz
 https://wiki.alioth.net/img_auth.php/7/7c/Carriers_with_turrets_1.0.oxz
 https://wiki.alioth.net/img_auth.php/c/c5/ShieldCycler_1.12.oxz
 https://wiki.alioth.net/img_auth.php/8/89/Life_In_The_Frontier_0.7.3.oxz
-https://wiki.alioth.net/img_auth.php/3/3d/Oolite.oxp.DrTripsa.InSystemTrader.oxz
+https://wiki.alioth.net/img_auth.php/a/a6/In_System_Trader_1.5.3.oxz
 https://wiki.alioth.net/img_auth.php/2/21/PlanetFall_Markets_0.1.oxz
 https://wiki.alioth.net/img_auth.php/6/67/Oolite.oxp.ZygoUgo.ZygoCinematicSkyNebulas.oxz
 https://wiki.alioth.net/img_auth.php/a/af/ResistanceCommander_1.6.oxz
