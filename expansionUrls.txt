@@ -621,10 +621,8 @@ https://wiki.alioth.net/img_auth.php/7/7e/Ambiences_recommended_by_Norby.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/Total_patrol_1.4.oxz
 https://wiki.alioth.net/img_auth.php/f/fc/ScannerAlertingEnhancement.oxz
 https://wiki.alioth.net/img_auth.php/1/1b/Jaguar_Company_2.5.29.oxz
-https://wiki.alioth.net/img_auth.php/7/73/BGS-A_1.10.9.oxz
 https://wiki.alioth.net/img_auth.php/c/c0/VariableMasslock_1.1.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/TimeControl_1.1.oxz
-https://wiki.alioth.net/img_auth.php/2/22/BGS-A_1.10.8.oxz
 https://wiki.alioth.net/img_auth.php/2/24/SafetyCatch_1.3.oxz
 https://wiki.alioth.net/img_auth.php/1/14/ClassicVarietyPack_v1.1.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/Status_Quo-Ship%27s_Library_1.0.0.oxz
