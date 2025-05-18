@@ -161,7 +161,7 @@ https://www.dl.dropboxusercontent.com/s/sc0ncl2bil8fcfe/RoutePlanner.0.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Oolite.oxp.zzz.Montana05.griff.hognose.OXZ
 https://wiki.alioth.net/img_auth.php/b/b1/ContractsOnBB.oxz
 https://wiki.alioth.net/img_auth.php/1/19/Oolite.oxp.zzz.Montana05.GalCop_military_missile_G1.OXZ
-https://wiki.alioth.net/img_auth.php/9/92/Oolite.oxp.cholmondely.Hints.0.092.oxz
+https://wiki.alioth.net/img_auth.php/e/ee/Oolite.oxp.cholmondely.hints.0.0.94.oxz
 https://wiki.alioth.net/img_auth.php/3/36/Oolite.oxp.KillerWolf.SteampunkHUD.oxz
 https://wiki.alioth.net/img_auth.php/3/33/Nuit_Station_2.4.oxz
 https://wiki.alioth.net/img_auth.php/3/38/Oolite.oxp.zzz.Montana05.dragonships.OXZ
