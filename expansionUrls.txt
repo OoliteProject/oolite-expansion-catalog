@@ -373,7 +373,7 @@ https://wiki.alioth.net/img_auth.php/5/5d/Cim.gsagostinho.SystemFeatures.Rings.o
 https://wiki.alioth.net/img_auth.php/3/32/NightAdder_EscortDeck.oxz
 https://wiki.alioth.net/img_auth.php/3/34/Ace56_Hornet.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Ace56_Cruzer.oxz
-https://wiki.alioth.net/img_auth.php/e/e0/ShipRespray_1.3.9.oxz
+https://wiki.alioth.net/img_auth.php/2/2a/ShipRespray_1.4.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/Z-GrOovY_VarietyPack_2.1.oxz
 https://wiki.alioth.net/img_auth.php/c/c0/Oolite.oxp.Griff.Boa_MkII.oxz
 https://wiki.alioth.net/img_auth.php/6/66/Gsagostinho.CobraMkIV.oxz
