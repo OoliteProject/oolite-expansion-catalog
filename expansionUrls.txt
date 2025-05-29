@@ -202,7 +202,7 @@ https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/Smugglers_2.5.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
-https://wiki.alioth.net/img_auth.php/f/f1/EquipmentStorage_1.12.oxz
+https://wiki.alioth.net/img_auth.php/4/40/EquipmentStorage_1.13.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
 https://wiki.alioth.net/img_auth.php/6/64/ManualWitchspaceAlignment_2.13.oxz
