@@ -69,7 +69,6 @@ https://wiki.alioth.net/img_auth.php/b/b9/Oolite.oxp.redspear.additional_planets
 https://wiki.alioth.net/img_auth.php/b/bf/PlanetFall_Mission_-_Oo-Haul_1.11.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/Oolite.oxp.Cholmondeley.Lore_Collection_%28Classic_Elite%29.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_fullsize-textures.oxz
-https://wiki.alioth.net/img_auth.php/0/07/XenonUI_SWEconomy_Addition.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
 https://wiki.alioth.net/img_auth.php/8/80/VimanaX_HUD_1.25.oxz
 https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
@@ -221,7 +220,7 @@ https://wiki.alioth.net/img_auth.php/1/19/Diplomacy.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/Oolite.oxp.redspear.escape_pod_as_standard.oxz
 https://wiki.alioth.net/img_auth.php/5/57/Oolite.oxp.redspear.paddling_pool.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/Oolite.oxp.redspear.cargo_scoop_as_standard.oxz
-https://wiki.alioth.net/img_auth.php/4/44/SW_Economy.oxz
+https://wiki.alioth.net/img_auth.php/e/ec/SW_Economy_3.10.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/LeestiIsMoonLSM8k.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/LeestiIsMoon8k.oxz
 https://wiki.alioth.net/img_auth.php/6/62/Oolite.oxp.zzz.Montana05.Far_Arm_Ships.OXZ
