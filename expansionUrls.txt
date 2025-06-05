@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/d/dd/ConsoleLogMFD.oxz
 https://wiki.alioth.net/img_auth.php/b/ba/AnacondaCruiseLiners.oxz
 https://wiki.alioth.net/img_auth.php/5/55/QuickVisa.oxz
 https://wiki.alioth.net/img_auth.php/2/25/RoughGuide.oxz
