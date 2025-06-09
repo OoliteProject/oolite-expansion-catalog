@@ -26,10 +26,10 @@ https://wiki.alioth.net/img_auth.php/1/1d/LoadoutByCategory_190.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/DeepSpaceDredgers_Facelift_1.2.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NavigationBeaconsMFD.oxz
 https://wiki.alioth.net/img_auth.php/4/49/LoadoutByCategory.oxz
-https://wiki.alioth.net/img_auth.php/5/58/Cataclysm_2.1.oxz
+https://wiki.alioth.net/img_auth.php/4/4c/Cataclysm_2.2.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Draven_2.0.oxz
 https://wiki.alioth.net/img_auth.php/9/96/ContextualJukebox.oxz
-https://wiki.alioth.net/img_auth.php/9/9a/Lave_2.2.oxz
+https://wiki.alioth.net/img_auth.php/0/01/Lave_2.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c7/Coyotes_Run_2.5.oxz
 https://wiki.alioth.net/img_auth.php/2/20/Feudal_PlanetFall2_1.4.oxz
 https://wiki.alioth.net/img_auth.php/f/f5/PlanetFall_Resources.oxz
@@ -86,7 +86,7 @@ https://wiki.alioth.net/img_auth.php/a/ae/TionislaOrbitalGraveyard_Memorials.oxz
 https://wiki.alioth.net/img_auth.php/a/a6/TionislaOrbitalGraveyard.oxz
 https://wiki.alioth.net/img_auth.php/1/1b/TionislaOrbitalGraveyard_Monuments.oxz
 https://wiki.alioth.net/img_auth.php/5/58/SystemDataConfig.oxz
-https://wiki.alioth.net/img_auth.php/e/ea/GalCopGalacticRegistry_5.10.oxz
+https://wiki.alioth.net/img_auth.php/7/75/GalCopGalacticRegistry_5.11.oxz
 https://wiki.alioth.net/img_auth.php/e/e4/CommsLogMFD.oxz
 https://wiki.alioth.net/img_auth.php/3/37/Oolite.oxp.redspear.fighter_explorers.oxz
 https://wiki.alioth.net/img_auth.php/4/49/TionislaChronicleArray.oxz
@@ -200,7 +200,7 @@ https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
-https://wiki.alioth.net/img_auth.php/2/2a/Smugglers_2.5.oxz
+https://wiki.alioth.net/img_auth.php/f/fc/Smugglers_2.6.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/4/40/EquipmentStorage_1.13.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
@@ -265,7 +265,7 @@ https://wiki.alioth.net/img_auth.php/8/88/CargoSpotter-1.1.oxz
 https://wiki.alioth.net/img_auth.php/4/48/Oolite.oxp.zzz.Montana05.GalTech_cylon_raider_Fix.OXZ
 https://wiki.alioth.net/img_auth.php/e/ed/ColuberHUD-1.2.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c5/Wanted_posters_1.0.1.oxz
-https://wiki.alioth.net/img_auth.php/0/06/Market_inquirer_1.14.1.oxz
+https://wiki.alioth.net/img_auth.php/d/d5/Market_inquirer_1.14.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1f/Market_ads_1.0.oxz
 https://wiki.alioth.net/img_auth.php/c/cb/Market_observer_3.7.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/SuperHUBForExtraPlanets-1.2.oxz
@@ -300,7 +300,7 @@ https://wiki.alioth.net/img_auth.php/a/a0/Oolite.oxp.Thargoid.IronHide.3.06.oxz
 https://wiki.alioth.net/img_auth.php/b/b4/FuelInjectionCruiseControl_1.0.oxz
 https://wiki.alioth.net/img_auth.php/f/fb/HomeSystem.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/TrophyCollector.oxz
-https://wiki.alioth.net/img_auth.php/8/8f/LaserMountSwitchingSystem_2.7.oxz
+https://wiki.alioth.net/img_auth.php/c/cf/LaserMountSwitchingSystem_2.8.oxz
 https://wiki.alioth.net/img_auth.php/6/64/ShipVersion_1.24.oxz
 https://wiki.alioth.net/img_auth.php/8/82/Illegal_Goods_Tweak.oxz
 https://wiki.alioth.net/img_auth.php/1/10/OrbitalStations.oxz
@@ -367,7 +367,7 @@ https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
 https://wiki.alioth.net/img_auth.php/a/a6/Library_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/8/87/Sfep_stations_2.0.1.oxz
-https://wiki.alioth.net/img_auth.php/6/66/Sfep_base_2.0.1.oxz
+https://wiki.alioth.net/img_auth.php/a/ad/Sfep_base_2.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
 https://wiki.alioth.net/img_auth.php/5/5d/Cim.gsagostinho.SystemFeatures.Rings.oxz
 https://wiki.alioth.net/img_auth.php/3/32/NightAdder_EscortDeck.oxz
