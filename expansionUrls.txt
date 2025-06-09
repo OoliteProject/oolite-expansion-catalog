@@ -451,7 +451,7 @@ https://wiki.alioth.net/img_auth.php/c/ca/Oolite.oxp.astrobe.sunkyota.oxz
 https://wiki.alioth.net/img_auth.php/4/41/Oolite.oxp.astrobe.smallships.oxz
 https://wiki.alioth.net/img_auth.php/9/9c/BulkCargoProcessor.oxz
 https://wiki.alioth.net/img_auth.php/7/7d/Oolite.oxp.Thargoid.FuelStation.oxz
-https://wiki.alioth.net/img_auth.php/a/ac/FastTargetSelector_1.6.oxz
+https://wiki.alioth.net/img_auth.php/4/47/FastTargetSelector_1.7.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Convoys_without_bounty_labels_1.3.1.oxz
 https://wiki.alioth.net/img_auth.php/4/46/Freighter_Convoys_1.3.oxz
 https://wiki.alioth.net/img_auth.php/b/b1/Convoys_1.3.oxz
