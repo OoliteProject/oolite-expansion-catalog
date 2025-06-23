@@ -439,7 +439,7 @@ https://wiki.alioth.net/img_auth.php/3/33/Oolite.oxp.Astrobe.compass-target-auto
 https://wiki.alioth.net/img_auth.php/3/34/FTZ.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/SpyHunter.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Oolite.oxp.Astrobe.surjectors.oxz
-https://wiki.alioth.net/img_auth.php/7/78/Additional_planets_sr_base_0.9.oxz
+https://wiki.alioth.net/img_auth.php/6/6c/Additional_planets_sr_base_0.10.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Skilled_NPCs.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/AstroFactory_2.5.oxz
 https://wiki.alioth.net/img_auth.php/9/9d/Satellites.oxz
