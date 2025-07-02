@@ -512,7 +512,7 @@ https://wiki.alioth.net/img_auth.php/d/d3/Oolite.oxp.CaptMurphy.BreakableWitchDr
 https://wiki.alioth.net/img_auth.php/e/e7/Oolite.oxp.amah.noshaders_staer9_chopped_cobra.oxz
 https://wiki.alioth.net/img_auth.php/2/26/Eco_Lasers_1.0.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Trail_Detector_1.0.oxz
-https://wiki.alioth.net/img_auth.php/2/22/In-System_Taxi_1.5.oxz
+https://wiki.alioth.net/img_auth.php/a/ab/In-System_Taxi_1.6.oxz
 https://wiki.alioth.net/img_auth.php/f/f8/Oolite.oxp.Griff.Wolf_Mk_II.oxz
 https://wiki.alioth.net/img_auth.php/c/c8/Stormbrewer_2.9.oxz
 https://wiki.alioth.net/img_auth.php/6/61/Oolite.oxp.amah.noshaders_extra_stations_addon.oxz
