@@ -36,7 +36,7 @@ https://wiki.alioth.net/img_auth.php/f/f5/PlanetFall_Resources.oxz
 https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/PitviperMarkII_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/b/b6/SpaceBarFacelift_1.7.oxz
-https://wiki.alioth.net/img_auth.php/c/c8/ExternalDockingSystem_1.8.oxz
+https://wiki.alioth.net/img_auth.php/5/51/ExternalDockingSystem_1.9.oxz
 https://wiki.alioth.net/img_auth.php/7/75/ExtraRockHermits_1.6.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/MissileSummary_1.6.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/ExpandedWeaponInfo.oxz
@@ -165,7 +165,7 @@ https://wiki.alioth.net/img_auth.php/b/b1/ContractsOnBB.oxz
 https://wiki.alioth.net/img_auth.php/1/19/Oolite.oxp.zzz.Montana05.GalCop_military_missile_G1.OXZ
 https://wiki.alioth.net/img_auth.php/e/ee/Oolite.oxp.cholmondely.hints.0.0.94.oxz
 https://wiki.alioth.net/img_auth.php/3/36/Oolite.oxp.KillerWolf.SteampunkHUD.oxz
-https://wiki.alioth.net/img_auth.php/3/33/Nuit_Station_2.4.oxz
+https://wiki.alioth.net/img_auth.php/8/8f/Nuit_Station_2.5.oxz
 https://wiki.alioth.net/img_auth.php/3/38/Oolite.oxp.zzz.Montana05.dragonships.OXZ
 https://wiki.alioth.net/img_auth.php/7/7c/Oolite.oxp.UK_Eliter.InterstellarTweaks.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Oolite.oxp.UK_Eliter.Extra_Thargoids.oxz
