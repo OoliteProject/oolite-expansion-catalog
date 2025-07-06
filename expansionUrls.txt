@@ -192,7 +192,7 @@ https://wiki.alioth.net/img_auth.php/8/84/Oolite.oxp.zzz.Montana05.SIRF.OXZ
 https://wiki.alioth.net/img_auth.php/5/5d/BountySystem.oxz
 https://wiki.alioth.net/img_auth.php/7/7e/RemoveIndividualPylon.oxz
 https://wiki.alioth.net/img_auth.php/2/27/Deep_Horizon_Emergency_Witchspace_Initiator.oxz
-https://wiki.alioth.net/img_auth.php/2/22/Oolite.oxp.Thargoid.TrafficControl.2.02.oxz
+https://wiki.alioth.net/img_auth.php/a/a3/TrafficControl_2.3.oxz
 https://wiki.alioth.net/img_auth.php/6/61/BroadcastComms_Digebiti_Variations.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/PlanetarySystems.oxz
 https://wiki.alioth.net/img_auth.php/d/d7/Generation_Ships_1.6.oxz
