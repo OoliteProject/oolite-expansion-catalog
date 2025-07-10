@@ -26,7 +26,7 @@ https://wiki.alioth.net/img_auth.php/1/1d/LoadoutByCategory_190.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/DeepSpaceDredgers_Facelift_1.2.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NavigationBeaconsMFD.oxz
 https://wiki.alioth.net/img_auth.php/4/49/LoadoutByCategory.oxz
-https://wiki.alioth.net/img_auth.php/4/4c/Cataclysm_2.2.oxz
+https://wiki.alioth.net/img_auth.php/4/48/Cataclysm_2.3.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Draven_2.0.oxz
 https://wiki.alioth.net/img_auth.php/9/96/ContextualJukebox.oxz
 https://wiki.alioth.net/img_auth.php/0/01/Lave_2.3.oxz
