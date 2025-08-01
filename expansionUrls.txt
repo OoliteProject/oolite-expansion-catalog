@@ -33,7 +33,8 @@ https://wiki.alioth.net/img_auth.php/9/96/ContextualJukebox.oxz
 https://wiki.alioth.net/img_auth.php/0/01/Lave_2.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c7/Coyotes_Run_2.5.oxz
 https://wiki.alioth.net/img_auth.php/2/20/Feudal_PlanetFall2_1.4.oxz
-https://wiki.alioth.net/img_auth.php/f/f5/PlanetFall_Resources.oxz
+https://wiki.alioth.net/img_auth.php/6/68/PlanetFall2_ResourcesA.oxz
+https://wiki.alioth.net/img_auth.php/c/cc/PlanetFall2_ResourcesB.oxz
 https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/PitviperMarkII_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/b/b6/SpaceBarFacelift_1.7.oxz
