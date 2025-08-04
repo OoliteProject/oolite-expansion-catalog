@@ -8,6 +8,9 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/4/40/HyperRadio_2.0.oxz
+https://wiki.alioth.net/img_auth.php/9/93/HyperradioSYN01.oxz
+https://wiki.alioth.net/img_auth.php/7/79/HyperradioROCK01.oxz
 https://wiki.alioth.net/img_auth.php/1/10/TurretToggler_1.2.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/ConsoleLogMFD.oxz
 https://wiki.alioth.net/img_auth.php/b/ba/AnacondaCruiseLiners.oxz
