@@ -161,7 +161,7 @@ https://wiki.alioth.net/img_auth.php/3/3f/FactoryPaintJobs_Asp.oxz
 https://wiki.alioth.net/img_auth.php/f/f5/FactoryPaintJobs_Boa_1.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/FactoryPaintJobs_Anaconda_1.2.oxz
 https://wiki.alioth.net/img_auth.php/c/cf/FactoryPaintJobs_Adder.oxz
-https://wiki.alioth.net/img_auth.php/d/d8/BulletinBoardSystem_2.8.oxz
+https://wiki.alioth.net/img_auth.php/6/67/BulletinBoardSystem_2.9.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/GalCopMissions_0.9.oxz
 https://wiki.alioth.net/img_auth.php/f/f9/Ship_Storage_Helper_0.39.oxz
 https://www.dl.dropboxusercontent.com/s/sc0ncl2bil8fcfe/RoutePlanner.0.3.oxz
