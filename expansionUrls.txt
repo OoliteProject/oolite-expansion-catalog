@@ -9,6 +9,10 @@
 # 
 
 https://wiki.alioth.net/img_auth.php/4/40/HyperRadio_2.0.oxz
+https://wiki.alioth.net/img_auth.php/5/5c/HyperradioCJ01.oxz
+https://wiki.alioth.net/img_auth.php/4/4c/HyperradioCLS01.oxz
+https://wiki.alioth.net/img_auth.php/2/24/HyperradioLOFI01.oxz
+https://wiki.alioth.net/img_auth.php/0/0d/HyperradioST03.oxz
 https://wiki.alioth.net/img_auth.php/9/93/HyperradioSYN01.oxz
 https://wiki.alioth.net/img_auth.php/7/79/HyperradioROCK01.oxz
 https://wiki.alioth.net/img_auth.php/1/10/TurretToggler_1.2.oxz
