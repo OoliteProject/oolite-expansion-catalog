@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/7/77/Distant_Thunder.oxz
 https://wiki.alioth.net/img_auth.php/4/40/HyperRadio_2.0.oxz
 https://wiki.alioth.net/img_auth.php/5/5c/HyperradioCJ01.oxz
 https://wiki.alioth.net/img_auth.php/4/4c/HyperradioCLS01.oxz
@@ -673,7 +674,7 @@ https://wiki.alioth.net/img_auth.php/2/2c/Reduce_Weapon_Damage_0.10.oxz
 https://wiki.alioth.net/img_auth.php/1/11/TheCollector.0.4.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/Tws_satnav.oxz
 https://wiki.alioth.net/img_auth.php/0/04/Oolite.oxp.SirArian.SKS-Plasma-Mk1.oxz
-https://wiki.alioth.net/img_auth.php/b/bb/DisplayReputation1.3.oxz
+https://wiki.alioth.net/img_auth.php/9/94/Display_Reputation.oxz
 https://wiki.alioth.net/img_auth.php/f/fd/GlareClarifier.oxz
 https://wiki.alioth.net/img_auth.php/7/72/HUDDataShipName.oxz
 https://wiki.alioth.net/img_auth.php/d/da/I-Missile1.15.oxz
