@@ -7,8 +7,8 @@
 # - it is recommended to sort the URLs to easily spot duplicated.
 #   Check the generator's pedantic mode.
 # 
-# shieldcycler 2.1.1
-https://app.box.com/s/q5x9e3acv38lh5nlzjw72vom3hu2wz4i
+
+https://wiki.alioth.net/img_auth.php/9/9a/ShieldCycler-2.1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/77/Distant_Thunder.oxz
 https://wiki.alioth.net/img_auth.php/4/40/HyperRadio_2.0.oxz
 https://wiki.alioth.net/img_auth.php/5/5c/HyperradioCJ01.oxz
