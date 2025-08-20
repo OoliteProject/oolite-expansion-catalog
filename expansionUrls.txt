@@ -268,7 +268,7 @@ https://wiki.alioth.net/img_auth.php/1/18/Riredi_2.3.oxz
 https://wiki.alioth.net/img_auth.php/8/8f/Fighters_1.5.oxz
 https://wiki.alioth.net/img_auth.php/1/1a/FPO_Lave.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Tracker-1.05.oxz
-https://wiki.alioth.net/img_auth.php/f/f0/ShieldCycler-2.1.oxz
+https://app.box.com/s/q5x9e3acv38lh5nlzjw72vom3hu2wz4i // shieldcycler 2.1.1
 https://wiki.alioth.net/img_auth.php/e/eb/TowbarPayout-Medium-1.1.oxz
 https://wiki.alioth.net/img_auth.php/b/ba/NavalGridNext-2.0.oxz
 https://wiki.alioth.net/img_auth.php/8/88/CargoSpotter-1.1.oxz
