@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/7/71/Missile_Spoof_1.04.oxz
 https://wiki.alioth.net/img_auth.php/9/9a/ShieldCycler-2.1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/77/Distant_Thunder.oxz
 https://wiki.alioth.net/img_auth.php/4/40/HyperRadio_2.0.oxz
