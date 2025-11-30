@@ -77,7 +77,7 @@ https://wiki.alioth.net/img_auth.php/8/8f/Additional_planets_sr_demux_gas_giants
 https://wiki.alioth.net/img_auth.php/9/91/Additional_planets_sr_pack_redux_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/75/HUDSelector-1.28.oxz
 https://wiki.alioth.net/img_auth.php/9/99/Oolite.oxp.amah.noshaders_accessories_replace.oxz
-https://wiki.alioth.net/img_auth.php/9/9c/Oolite.oxp.zzz.Montana05.GalTech_constitution_class_heavy_cruiser_Fix_V051.OXZ
+https://wiki.alioth.net/img_auth.php/1/12/Oolite.oxp.zzz.Montana05.GalTech_constitution_class_heavy_cruiser_Fix_V052.OXZ
 https://wiki.alioth.net/img_auth.php/b/b3/Oolite.oxp.zzz.Montana05.GalTech_colonial_viper_mark_I_Restore.OXZ
 https://wiki.alioth.net/img_auth.php/b/b9/Oolite.oxp.redspear.additional_planets_sr_demux_ocean_pack.oxz
 https://wiki.alioth.net/img_auth.php/b/bf/PlanetFall_Mission_-_Oo-Haul_1.11.oxz
