@@ -65,7 +65,7 @@ https://wiki.alioth.net/img_auth.php/c/ce/CombatSimulator_1.2.oxz
 https://cim.sotl.org.uk/games/files/oolite/Curse_of_the_Black_Sunspot_1.0.2.oxz
 https://cim.sotl.org.uk/games/files/oolite/Library_Extracts_1.2.oxz
 https://wiki.alioth.net/img_auth.php/6/6c/NewCargoes_2.1.oxz
-https://wiki.alioth.net/img_auth.php/a/af/Ships_Library_0.10.oxz
+https://wiki.alioth.net/img_auth.php/a/a7/Ships_Library_0.11.oxz
 https://cim.sotl.org.uk/games/files/oolite/System_Features_Sunspots_1.5.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Oolite.oxp.amah.noshaders_Mimoriarty_rl_yasenturret_upgrade.oxz
 https://wiki.alioth.net/img_auth.php/2/29/Oolite.oxp.redspear.additional_planets_sr_others_gas_giants.oxz
@@ -84,7 +84,7 @@ https://wiki.alioth.net/img_auth.php/b/bf/PlanetFall_Mission_-_Oo-Haul_1.11.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/Oolite.oxp.Cholmondeley.Lore_Collection_%28Classic_Elite%29.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_fullsize-textures.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
-https://wiki.alioth.net/img_auth.php/4/4f/VimanaX_HUD_1.26.oxz
+https://wiki.alioth.net/img_auth.php/7/7c/VimanaX_HUD_1.27.oxz
 https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Commies_2.19.oxz
 https://wiki.alioth.net/img_auth.php/e/e9/Dictators_2.7.oxz
@@ -377,7 +377,7 @@ https://wiki.alioth.net/img_auth.php/f/fb/Gsagostinho.DangerousHUD.GreenVariant.
 https://wiki.alioth.net/img_auth.php/7/72/Gsagostinho.DangerousHUD.BlueVariant.oxz
 https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
-https://wiki.alioth.net/img_auth.php/a/a6/Library_1.7.2.oxz
+https://wiki.alioth.net/img_auth.php/2/26/Library_1.8.5.oxz
 https://wiki.alioth.net/img_auth.php/8/87/Sfep_stations_2.0.1.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/Sfep_base_2.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
