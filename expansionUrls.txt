@@ -435,7 +435,7 @@ https://wiki.alioth.net/img_auth.php/d/d6/FontXolonium.oxz
 https://wiki.alioth.net/img_auth.php/3/3f/FontOCRAExtended.oxz
 https://wiki.alioth.net/img_auth.php/0/05/ChangeViewSound.oxz
 https://wiki.alioth.net/img_auth.php/9/9a/Navigation_MFD_1.9.2.oxz
-https://wiki.alioth.net/img_auth.php/5/50/Taxi_Galatica_2.4.oxz
+https://wiki.alioth.net/img_auth.php/d/da/Taxi_Galactica_2.5.oxz
 https://wiki.alioth.net/img_auth.php/2/23/Gsagostinho.TexturePack.CobraMkIII.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/FontDiscognate.oxz
 https://wiki.alioth.net/img_auth.php/a/a4/FontNovaSquare.oxz
