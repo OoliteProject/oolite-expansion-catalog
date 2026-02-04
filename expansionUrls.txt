@@ -8,7 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
-https://wiki.alioth.net/img_auth.php/4/42/TradeOutpost_2.0.oxz
+https://wiki.alioth.net/img_auth.php/d/d6/Trade_Outpost_2.0.1.oxz
 https://wiki.alioth.net/img_auth.php/7/7e/Missile_Spoof_1.04.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9a/ShieldCycler-2.1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/77/Distant_Thunder.oxz
@@ -38,19 +38,19 @@ https://wiki.alioth.net/img_auth.php/1/1d/LoadoutByCategory_190.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/DeepSpaceDredgers_Facelift_1.2.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NavigationBeaconsMFD.oxz
 https://wiki.alioth.net/img_auth.php/4/49/LoadoutByCategory.oxz
-https://wiki.alioth.net/img_auth.php/5/56/Cataclysm_2.4.oxz
+https://wiki.alioth.net/img_auth.php/d/df/Cataclysm_2.5.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Draven_2.0.oxz
 https://wiki.alioth.net/img_auth.php/9/96/ContextualJukebox.oxz
 https://wiki.alioth.net/img_auth.php/0/01/Lave_2.3.oxz
-https://wiki.alioth.net/img_auth.php/c/c7/Coyotes_Run_2.5.oxz
+https://wiki.alioth.net/img_auth.php/8/8c/Coyotes_Run_2.6.oxz
 https://wiki.alioth.net/img_auth.php/2/20/Feudal_PlanetFall2_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/68/PlanetFall2_ResourcesA.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/PlanetFall2_ResourcesB.oxz
 https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/PitviperMarkII_Facelift.oxz
-https://wiki.alioth.net/img_auth.php/b/b6/SpaceBarFacelift_1.7.oxz
+https://wiki.alioth.net/img_auth.php/3/3c/SpacebarFacelift_1.8.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/ExternalDockingSystem_1.9.1.oxz
-https://wiki.alioth.net/img_auth.php/7/75/ExtraRockHermits_1.6.oxz
+https://wiki.alioth.net/img_auth.php/f/f3/ExtraRockHermits_1.7.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/MissileSummary_1.6.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/ExpandedWeaponInfo.oxz
 https://wiki.alioth.net/img_auth.php/6/62/LaveInitialShipyard.oxz
@@ -86,8 +86,8 @@ https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_ful
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
 https://wiki.alioth.net/img_auth.php/7/7c/VimanaX_HUD_1.27.oxz
 https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
-https://wiki.alioth.net/img_auth.php/d/dd/Commies_2.19.oxz
-https://wiki.alioth.net/img_auth.php/e/e9/Dictators_2.7.oxz
+https://wiki.alioth.net/img_auth.php/3/3c/Commies_2.20.oxz
+https://wiki.alioth.net/img_auth.php/e/e2/Dictators_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d4/Escort_Formations_1.3.oxz
 https://wiki.alioth.net/img_auth.php/9/9f/LaserCannons_1.13.1.oxz
 https://wiki.alioth.net/img_auth.php/3/3a/BGS2.5.4.oxz
@@ -170,7 +170,7 @@ https://wiki.alioth.net/img_auth.php/f/f5/FactoryPaintJobs_Boa_1.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/FactoryPaintJobs_Anaconda_1.2.oxz
 https://wiki.alioth.net/img_auth.php/c/cf/FactoryPaintJobs_Adder.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/BulletinBoardSystem_2.10.oxz
-https://wiki.alioth.net/img_auth.php/3/38/GalCopMissions_0.10.oxz
+https://wiki.alioth.net/img_auth.php/e/e0/GalCopMissions_0.11.oxz
 https://wiki.alioth.net/img_auth.php/f/f9/Ship_Storage_Helper_0.39.oxz
 https://www.dl.dropboxusercontent.com/s/sc0ncl2bil8fcfe/RoutePlanner.0.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Oolite.oxp.zzz.Montana05.griff.hognose.OXZ
@@ -178,7 +178,7 @@ https://wiki.alioth.net/img_auth.php/b/b1/ContractsOnBB.oxz
 https://wiki.alioth.net/img_auth.php/1/19/Oolite.oxp.zzz.Montana05.GalCop_military_missile_G1.OXZ
 https://wiki.alioth.net/img_auth.php/e/ee/Oolite.oxp.cholmondely.hints.0.0.94.oxz
 https://wiki.alioth.net/img_auth.php/3/36/Oolite.oxp.KillerWolf.SteampunkHUD.oxz
-https://wiki.alioth.net/img_auth.php/8/8f/Nuit_Station_2.5.oxz
+https://wiki.alioth.net/img_auth.php/2/23/Nuit_Station_2.6.oxz
 https://wiki.alioth.net/img_auth.php/3/38/Oolite.oxp.zzz.Montana05.dragonships.OXZ
 https://wiki.alioth.net/img_auth.php/7/7c/Oolite.oxp.UK_Eliter.InterstellarTweaks.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Oolite.oxp.UK_Eliter.Extra_Thargoids.oxz
@@ -217,8 +217,8 @@ https://wiki.alioth.net/img_auth.php/f/fc/Smugglers_2.6.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/4/40/EquipmentStorage_1.13.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
-https://wiki.alioth.net/img_auth.php/b/bd/Deep_Horizon_Advanced_Navigation_Computer.oxz
-https://wiki.alioth.net/img_auth.php/6/64/ManualWitchspaceAlignment_2.13.oxz
+https://wiki.alioth.net/img_auth.php/6/61/DH_ANC.oxz
+https://wiki.alioth.net/img_auth.php/e/ec/ManualWitchspaceAlignment_2.14.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/CompressedF7Layout.oxz
 https://wiki.alioth.net/img_auth.php/0/05/Oolite.oxp.zzz.Montana05.ZPG_fer_de_pai.OXZ
 https://wiki.alioth.net/img_auth.php/2/20/LongWayRound.oxz
@@ -303,7 +303,7 @@ https://wiki.alioth.net/img_auth.php/f/f4/TionislaIsMars8k.oxz
 https://wiki.alioth.net/img_auth.php/8/8e/LaveIsEarth8k.oxz
 https://wiki.alioth.net/img_auth.php/0/0c/WOOT_Attack.oxz
 https://wiki.alioth.net/img_auth.php/7/75/Oolite.oxp.LittleBear.RandomStationNames.0.0.2.oxz
-https://wiki.alioth.net/img_auth.php/9/9f/Anarchies-2.9.4.oxz
+https://wiki.alioth.net/img_auth.php/b/b8/Anarchies_2.9.5.oxz
 https://wiki.alioth.net/img_auth.php/3/39/Oolite.oxp.another_commander.188NSGMaps.1_1.oxz
 https://wiki.alioth.net/img_auth.php/4/4f/Oolite.oxp.Thargoid.Pods.1.48.oxz
 https://wiki.alioth.net/img_auth.php/3/3e/Oolite.oxp.NewtSoup.MiningIFFScannerUpgrade.1.1.3.oxz
@@ -317,7 +317,7 @@ https://wiki.alioth.net/img_auth.php/6/64/ShipVersion_1.24.oxz
 https://wiki.alioth.net/img_auth.php/8/82/Illegal_Goods_Tweak.oxz
 https://wiki.alioth.net/img_auth.php/1/10/OrbitalStations.oxz
 https://wiki.alioth.net/img_auth.php/a/ab/CabalLibray-1.7.2.oxz
-https://wiki.alioth.net/img_auth.php/5/5f/Oolite.oxp.Ramirez.IronRaven.oxz
+https://wiki.alioth.net/img_auth.php/7/7f/Iron_Raven_2.0.2.oxz
 https://wiki.alioth.net/img_auth.php/3/3d/DamageReportMFD.oxz
 https://wiki.alioth.net/img_auth.php/6/68/LaserArrangement.oxz
 https://wiki.alioth.net/img_auth.php/4/4d/FontDosis.oxz
@@ -330,7 +330,7 @@ https://wiki.alioth.net/img_auth.php/3/35/FuelTweaks.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/Tec_apep_mk_2_v1.0.oxz
 https://wiki.alioth.net/img_auth.php/5/5c/Secretarybird_v1.0.oxz
 https://wiki.alioth.net/img_auth.php/f/f3/CargoScanner.oxz
-https://wiki.alioth.net/img_auth.php/0/02/Oolite.oxp.cheyd.dhi_nav_buoy.oxz
+https://wiki.alioth.net/img_auth.php/f/fb/DH_Nav_Buoy_1.0.4.oxz
 https://wiki.alioth.net/img_auth.php/9/96/DisplayCurrentCourse.oxz
 https://wiki.alioth.net/img_auth.php/3/36/LinersMarkets.oxz
 https://wiki.alioth.net/img_auth.php/5/58/ShipComparison.oxz
@@ -378,7 +378,7 @@ https://wiki.alioth.net/img_auth.php/7/72/Gsagostinho.DangerousHUD.BlueVariant.o
 https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
 https://wiki.alioth.net/img_auth.php/2/26/Library_1.8.5.oxz
-https://wiki.alioth.net/img_auth.php/8/87/Sfep_stations_2.0.1.oxz
+https://wiki.alioth.net/img_auth.php/d/dc/Sfep_stations_2.0.2.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/Sfep_base_2.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
 https://wiki.alioth.net/img_auth.php/5/5d/Cim.gsagostinho.SystemFeatures.Rings.oxz
@@ -429,13 +429,13 @@ https://wiki.alioth.net/img_auth.php/f/f6/Yah_sete_4.5.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Yah_setd_4.5.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Yah_setc_4.5.oxz
 https://wiki.alioth.net/img_auth.php/3/3b/Yah_seta_4.5.oxz
-https://wiki.alioth.net/img_auth.php/2/20/Station_ads_1.1.oxz
+https://wiki.alioth.net/img_auth.php/a/ad/Station_Ads_1.2.oxz
 https://wiki.alioth.net/img_auth.php/8/86/Sniper_Gun_rebalancer.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/FontXolonium.oxz
 https://wiki.alioth.net/img_auth.php/3/3f/FontOCRAExtended.oxz
 https://wiki.alioth.net/img_auth.php/0/05/ChangeViewSound.oxz
 https://wiki.alioth.net/img_auth.php/9/9a/Navigation_MFD_1.9.2.oxz
-https://wiki.alioth.net/img_auth.php/4/42/Taxi_Galactica_2.6.oxz
+https://wiki.alioth.net/img_auth.php/e/ed/Taxi_Galactica_2.7.oxz
 https://wiki.alioth.net/img_auth.php/2/23/Gsagostinho.TexturePack.CobraMkIII.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/FontDiscognate.oxz
 https://wiki.alioth.net/img_auth.php/a/a4/FontNovaSquare.oxz
@@ -453,7 +453,7 @@ https://wiki.alioth.net/img_auth.php/e/e7/SpyHunter.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Oolite.oxp.Astrobe.surjectors.oxz
 https://wiki.alioth.net/img_auth.php/6/6c/Additional_planets_sr_base_0.10.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Skilled_NPCs.oxz
-https://wiki.alioth.net/img_auth.php/a/ad/AstroFactory_2.5.oxz
+https://wiki.alioth.net/img_auth.php/a/af/Astrofactory_2.5.2.oxz
 https://wiki.alioth.net/img_auth.php/9/9d/Satellites.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/IllicitUnlock.oxz
 https://wiki.alioth.net/img_auth.php/9/94/Distant_Stars.oxz
@@ -539,7 +539,7 @@ https://wiki.alioth.net/img_auth.php/3/32/Navigation_Flashers_1.0.oxz
 https://wiki.alioth.net/img_auth.php/1/19/FlightLog.oxz
 https://wiki.alioth.net/img_auth.php/4/48/Classic_SuperPythons.oxz
 https://wiki.alioth.net/img_auth.php/e/ec/Synchronised_Torus_1.0.oxz
-https://wiki.alioth.net/img_auth.php/5/58/Escort_Contracts_1.7.1.oxz
+https://wiki.alioth.net/img_auth.php/7/7a/Escort_Contracts_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/Engine_Sound_1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1d/Fighter_hud_mkii_1.4.1.oxz
 https://wiki.alioth.net/img_auth.php/c/c5/Singel-Use_Witchdrive-0.9.2.oxz
@@ -756,7 +756,7 @@ https://wiki.alioth.net/img_auth.php/7/77/YAH_Witchpoint_Override_1.00.oxz
 https://wiki.alioth.net/img_auth.php/8/84/YAH_Constore_Remover_1.00.oxz
 https://wiki.alioth.net/img_auth.php/7/79/YAH_Mobile_1.00.oxz
 https://wiki.alioth.net/img_auth.php/1/19/NuVipers_1.01.oxz
-https://wiki.alioth.net/img_auth.php/8/8d/Att1_2.1.oxz
+https://wiki.alioth.net/img_auth.php/1/1a/Att1_2.2.oxz
 https://wiki.alioth.net/img_auth.php/8/85/Trident_Down_2.5.2.oxz
 https://wiki.alioth.net/img_auth.php/a/a1/Fuel_Tank_2.2.oxz
 https://wiki.alioth.net/img_auth.php/e/e8/BGS-Soundset_Pagroove_2.3.oxz
@@ -767,7 +767,7 @@ https://wiki.alioth.net/img_auth.php/3/32/HyperradioPSY01.oxz
 https://wiki.alioth.net/img_auth.php/9/9c/HyperradioST01.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/HyperradioST02.oxz
 https://wiki.alioth.net/img_auth.php/8/82/HyperradioTN01.oxz
-https://wiki.alioth.net/img_auth.php/7/75/Stealth_2.1.oxz
+https://wiki.alioth.net/img_auth.php/2/28/Stealth_2.2.oxz
 https://wiki.alioth.net/img_auth.php/c/ce/Ring_Racer_1.21.oxz
 https://wiki.alioth.net/img_auth.php/1/1a/Retro_Rockets_1.00.oxz
 https://wiki.alioth.net/img_auth.php/0/09/Lazarus_1.00.oxz
@@ -782,7 +782,7 @@ https://wiki.alioth.net/img_auth.php/b/b2/Hyperradio_1.26.1.oxz
 https://wiki.alioth.net/img_auth.php/6/69/Snoopers_2.5.oxz
 https://wiki.alioth.net/img_auth.php/6/6a/Welcome_Mat_1.13.oxz
 https://wiki.alioth.net/img_auth.php/7/70/TrackerCam_1.02.oxz
-https://wiki.alioth.net/img_auth.php/3/3a/TCAT_1.11.oxz
+https://wiki.alioth.net/img_auth.php/9/9d/TCAT_2.1.oxz
 https://wiki.alioth.net/img_auth.php/b/b3/SecondWave_1.34.oxz
 https://wiki.alioth.net/img_auth.php/6/63/OoCheat_1.11.oxz
 https://wiki.alioth.net/img_auth.php/0/00/Neo-DockLights_1.00.oxz
@@ -796,7 +796,7 @@ https://wiki.alioth.net/img_auth.php/4/4a/ThargornThreat_1.5.2.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/ThargoidWars_4.6.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/MissileAnalyser_1.2.oxz
 https://wiki.alioth.net/img_auth.php/f/f9/Ionics_1.3.1.oxz
-https://wiki.alioth.net/img_auth.php/e/ef/Deposed_2.0.oxz
+https://wiki.alioth.net/img_auth.php/a/aa/Deposed_2.1.oxz
 https://wiki.alioth.net/img_auth.php/d/db/MilitaryFiasco_2.5.3.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Taranis_2.1.oxz
 https://wiki.alioth.net/img_auth.php/a/a9/LoveCats_2.0.oxz
