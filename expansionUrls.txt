@@ -65,7 +65,7 @@ https://wiki.alioth.net/img_auth.php/c/ce/CombatSimulator_1.2.oxz
 https://cim.sotl.org.uk/games/files/oolite/Curse_of_the_Black_Sunspot_1.0.2.oxz
 https://cim.sotl.org.uk/games/files/oolite/Library_Extracts_1.2.oxz
 https://wiki.alioth.net/img_auth.php/6/6c/NewCargoes_2.1.oxz
-https://wiki.alioth.net/img_auth.php/c/c7/Ships_Library_0.13.oxz
+https://wiki.alioth.net/img_auth.php/0/05/Ships_Library_0.14.oxz
 https://cim.sotl.org.uk/games/files/oolite/System_Features_Sunspots_1.5.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Oolite.oxp.amah.noshaders_Mimoriarty_rl_yasenturret_upgrade.oxz
 https://wiki.alioth.net/img_auth.php/2/29/Oolite.oxp.redspear.additional_planets_sr_others_gas_giants.oxz
