@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/5/51/MarketScreenLegalColumnMO.oxz
 https://wiki.alioth.net/img_auth.php/1/1c/MarketScreenLegalColumn.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Trade_Outpost_2.0.1.oxz
 https://wiki.alioth.net/img_auth.php/7/7e/Missile_Spoof_1.04.1.oxz
