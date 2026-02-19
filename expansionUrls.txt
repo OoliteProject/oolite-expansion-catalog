@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/1/1c/MarketScreenLegalColumn.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Trade_Outpost_2.0.1.oxz
 https://wiki.alioth.net/img_auth.php/7/7e/Missile_Spoof_1.04.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9a/ShieldCycler-2.1.1.oxz
@@ -213,7 +214,7 @@ https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
-https://wiki.alioth.net/img_auth.php/2/20/Smugglers_2.9.oxz
+https://wiki.alioth.net/img_auth.php/a/aa/Smugglers_2.10.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/EquipmentStorage_1.15.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
