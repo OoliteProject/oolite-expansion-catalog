@@ -412,7 +412,7 @@ https://wiki.alioth.net/img_auth.php/9/9c/XenonUIResourcesN.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/XenonReduxUIResources.oxz
 https://wiki.alioth.net/img_auth.php/a/a0/YellOoCabs_v2.7.oxz
 https://wiki.alioth.net/img_auth.php/5/5a/Oolite.oxp.BeeTLeBeTHLeHeM.Life-In-The-Frontier-Revival.oxz
-https://wiki.alioth.net/img_auth.php/b/bf/Liners_v1.8.oxz
+https://wiki.alioth.net/img_auth.php/6/6e/Liners_1.9.oxz
 https://wiki.alioth.net/img_auth.php/5/54/BlackBaron.oxz
 https://wiki.alioth.net/img_auth.php/5/5d/Wormhole_Restoration.oxz
 https://wiki.alioth.net/img_auth.php/9/90/ExtraFuelTanks-v1.8.oxz
