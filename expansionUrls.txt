@@ -8,6 +8,10 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/7/76/PlanetFall2_Oo-Haul.oxz
+https://wiki.alioth.net/img_auth.php/6/6d/Oo-Haul.oxz
+https://wiki.alioth.net/img_auth.php/6/62/PlanetFall2_HoopyCasino.oxz
+https://wiki.alioth.net/img_auth.php/1/12/Behemoth_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/5/51/MarketScreenLegalColumnMO.oxz
 https://wiki.alioth.net/img_auth.php/1/1c/MarketScreenLegalColumn.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Trade_Outpost_2.0.1.oxz
@@ -82,7 +86,6 @@ https://wiki.alioth.net/img_auth.php/9/99/Oolite.oxp.amah.noshaders_accessories_
 https://wiki.alioth.net/img_auth.php/1/12/Oolite.oxp.zzz.Montana05.GalTech_constitution_class_heavy_cruiser_Fix_V052.OXZ
 https://wiki.alioth.net/img_auth.php/b/b3/Oolite.oxp.zzz.Montana05.GalTech_colonial_viper_mark_I_Restore.OXZ
 https://wiki.alioth.net/img_auth.php/b/b9/Oolite.oxp.redspear.additional_planets_sr_demux_ocean_pack.oxz
-https://wiki.alioth.net/img_auth.php/b/bf/PlanetFall_Mission_-_Oo-Haul_1.11.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/Oolite.oxp.Cholmondeley.Lore_Collection_%28Classic_Elite%29.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_fullsize-textures.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
@@ -172,7 +175,7 @@ https://wiki.alioth.net/img_auth.php/f/f5/FactoryPaintJobs_Boa_1.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2f/FactoryPaintJobs_Anaconda_1.2.oxz
 https://wiki.alioth.net/img_auth.php/c/cf/FactoryPaintJobs_Adder.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/BulletinBoardSystem_2.11.oxz
-https://wiki.alioth.net/img_auth.php/e/e0/GalCopMissions_0.11.oxz
+https://wiki.alioth.net/img_auth.php/b/ba/GalCopMissions_0.12.oxz
 https://wiki.alioth.net/img_auth.php/f/f9/Ship_Storage_Helper_0.39.oxz
 https://www.dl.dropboxusercontent.com/s/sc0ncl2bil8fcfe/RoutePlanner.0.3.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Oolite.oxp.zzz.Montana05.griff.hognose.OXZ
@@ -499,7 +502,7 @@ https://wiki.alioth.net/img_auth.php/f/f9/Oolite.oxp.redspear.equipment_by_ship_
 https://wiki.alioth.net/img_auth.php/a/a8/Oolite.oxp.Astrobe.ShakyDrive.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Oolite.oxp.redspear.new_lasers.oxz
 https://wiki.alioth.net/img_auth.php/0/00/Multiple_Lasers_1.8.oxz
-https://wiki.alioth.net/img_auth.php/6/6f/HOopyCasino1.3.5.oxz
+https://wiki.alioth.net/img_auth.php/1/15/HOopyCasino_2.0.oxz
 https://wiki.alioth.net/img_auth.php/f/fa/Pitviper_1_1_0_2016-10-24.oxz
 https://wiki.alioth.net/img_auth.php/6/66/Eagle_Transporter_1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/ZeroMap_0.6.oxz
