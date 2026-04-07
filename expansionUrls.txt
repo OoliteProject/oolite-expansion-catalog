@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/5/5f/QMine_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/7/76/PlanetFall2_Oo-Haul.oxz
 https://wiki.alioth.net/img_auth.php/6/6d/Oo-Haul.oxz
 https://wiki.alioth.net/img_auth.php/6/62/PlanetFall2_HoopyCasino.oxz
@@ -663,7 +664,7 @@ https://wiki.alioth.net/img_auth.php/3/32/GiantSpacePizza_v3.1.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/GalDrivePod_v1.4.oxz
 https://wiki.alioth.net/img_auth.php/4/47/ContractorMkII_v1.6.oxz
 https://wiki.alioth.net/img_auth.php/e/e9/Oolite.oxp.QCS.QTHI_AuxEnergyGenerators_0.1.1.oxz
-https://wiki.alioth.net/img_auth.php/7/79/Wildefire_Docked_HUDs_1.1.oxz
+https://wiki.alioth.net/img_auth.php/d/d1/Docked_HUDs.oxz
 https://wiki.alioth.net/img_auth.php/9/99/Oolite.oxp.amah.noshaders_ZGrOovy_extraships.oxz
 https://wiki.alioth.net/img_auth.php/2/2b/Display_reputation.1.2.oxz
 https://wiki.alioth.net/img_auth.php/f/fe/Station_Self-Destruction_Codes.oxz
