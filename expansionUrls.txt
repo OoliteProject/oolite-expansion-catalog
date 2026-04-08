@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/9/99/PlanetFall2_BlackMonks.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/QMine_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/7/76/PlanetFall2_Oo-Haul.oxz
 https://wiki.alioth.net/img_auth.php/6/6d/Oo-Haul.oxz
@@ -503,7 +504,7 @@ https://wiki.alioth.net/img_auth.php/f/f9/Oolite.oxp.redspear.equipment_by_ship_
 https://wiki.alioth.net/img_auth.php/a/a8/Oolite.oxp.Astrobe.ShakyDrive.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Oolite.oxp.redspear.new_lasers.oxz
 https://wiki.alioth.net/img_auth.php/0/00/Multiple_Lasers_1.8.oxz
-https://wiki.alioth.net/img_auth.php/4/4f/HOopyCasino_2.1.oxz
+https://wiki.alioth.net/img_auth.php/f/f6/HOopyCasino_2.2.oxz
 https://wiki.alioth.net/img_auth.php/f/fa/Pitviper_1_1_0_2016-10-24.oxz
 https://wiki.alioth.net/img_auth.php/6/66/Eagle_Transporter_1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/ZeroMap_0.6.oxz
@@ -552,7 +553,7 @@ https://wiki.alioth.net/img_auth.php/c/c5/Singel-Use_Witchdrive-0.9.2.oxz
 https://wiki.alioth.net/img_auth.php/4/4a/FontDangerousSquare.oxz
 https://wiki.alioth.net/img_auth.php/2/26/Oolite.oxp.amah.noshaders_Mimoriarty_rl_ships.oxz
 https://wiki.alioth.net/img_auth.php/7/73/MiningContracts_1.13.oxz
-https://wiki.alioth.net/img_auth.php/a/a6/Blackmonks_2.2.1.oxz
+https://wiki.alioth.net/img_auth.php/f/f2/BlackMonks_2.3.oxz
 https://wiki.alioth.net/img_auth.php/6/6a/Oolite.oxp.amah.noshaders_missingcoreships.oxz
 https://wiki.alioth.net/img_auth.php/0/03/MinerCobra_1.4.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/Asteroid_tweaks_1.3.oxz
