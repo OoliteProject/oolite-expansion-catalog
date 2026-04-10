@@ -52,7 +52,7 @@ https://wiki.alioth.net/img_auth.php/8/8a/Draven_2.0.oxz
 https://wiki.alioth.net/img_auth.php/9/96/ContextualJukebox.oxz
 https://wiki.alioth.net/img_auth.php/2/21/Lave_2.4.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Coyotes_Run_2.6.oxz
-https://wiki.alioth.net/img_auth.php/2/20/Feudal_PlanetFall2_1.4.oxz
+https://wiki.alioth.net/img_auth.php/1/1e/Feudal_PlanetFall2_1.5.oxz
 https://wiki.alioth.net/img_auth.php/6/68/PlanetFall2_ResourcesA.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/PlanetFall2_ResourcesB.oxz
 https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
