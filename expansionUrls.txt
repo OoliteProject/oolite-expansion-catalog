@@ -34,6 +34,7 @@ https://wiki.alioth.net/img_auth.php/5/55/QuickVisa.oxz
 https://wiki.alioth.net/img_auth.php/2/25/RoughGuide.oxz
 https://wiki.alioth.net/img_auth.php/2/20/FuelStation_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/a/a5/Distant_Locales.oxz
+https://wiki.alioth.net/img_auth.php/e/e0/Partner_Trader.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/Distant_Realms.oxz
 https://wiki.alioth.net/img_auth.php/b/b9/Distant_Realms_US.oxz
 https://wiki.alioth.net/img_auth.php/0/05/DistantSpace.oxz
@@ -812,9 +813,9 @@ https://wiki.alioth.net/img_auth.php/d/d1/Cargo_wrecks_teaser_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/AsteroidStorm_4.3.oxz
 https://wiki.alioth.net/img_auth.php/6/61/BigShips_1.4.oxz
 https://wiki.alioth.net/img_auth.php/3/3d/Oolite.oxp.Pagroove.FamousPlanets.v.3.1.oxz
+https://wiki.alioth.net/img_auth.php/7/72/Q-Bomb_Detector_1.4.oxz
 https://wiki.alioth.net/img_auth.php/e/e0/CustomShields_0.83.oxz
 https://wiki.alioth.net/img_auth.php/c/c6/Oolite.oxp.Gilhad.EquipmentExpensiveItemColor.oxz
 https://wiki.alioth.net/img_auth.php/d/d6/Oolite.oxp.davidkroc.sidewinder-ng.oxz
 https://wiki.alioth.net/img_auth.php/c/c1/Oolite.oxp.mils32k.EnergyContainmentUnit.oxz
-https://wiki.alioth.net/img_auth.php/7/72/Q-Bomb_Detector_1.4.oxz
 
