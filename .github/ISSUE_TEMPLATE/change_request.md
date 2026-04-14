@@ -1,6 +1,6 @@
 ---
 name: Request inclusion or removal of expansions
-about: Create a report to help us improve
+about: Tell us about a catalog modification
 title: 'Please add/remove this expansion'
 labels: 'change'
 assignees: ''
