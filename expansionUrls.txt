@@ -120,7 +120,7 @@ https://wiki.alioth.net/img_auth.php/e/ee/Elite_Trader.oxz
 https://wiki.alioth.net/img_auth.php/c/ca/Merchanters_Zeal.oxz
 https://wiki.alioth.net/img_auth.php/7/7c/GETter_HUD.oxz
 https://wiki.alioth.net/img_auth.php/e/ed/Oolite.oxp.redspear.janes_galactic_shipset.oxz
-https://wiki.alioth.net/img_auth.php/9/92/EscortDeck-1.12.oxz
+https://wiki.alioth.net/img_auth.php/0/02/EscortDeck_1.13.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/EnhancedPassengerContracts.oxz
 https://wiki.alioth.net/img_auth.php/5/5e/Teleportation_Drive.oxz
 https://wiki.alioth.net/img_auth.php/7/7e/Cargo_Pods_1.2.oxz
