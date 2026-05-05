@@ -505,7 +505,7 @@ https://wiki.alioth.net/img_auth.php/f/f9/Oolite.oxp.redspear.equipment_by_ship_
 https://wiki.alioth.net/img_auth.php/a/a8/Oolite.oxp.Astrobe.ShakyDrive.oxz
 https://wiki.alioth.net/img_auth.php/6/63/Oolite.oxp.redspear.new_lasers.oxz
 https://wiki.alioth.net/img_auth.php/0/00/Multiple_Lasers_1.8.oxz
-https://wiki.alioth.net/img_auth.php/d/d4/HOopyCasino_2.3.oxz
+https://wiki.alioth.net/img_auth.php/8/80/HOopyCasino_2.3.3.oxz
 https://wiki.alioth.net/img_auth.php/f/fa/Pitviper_1_1_0_2016-10-24.oxz
 https://wiki.alioth.net/img_auth.php/6/66/Eagle_Transporter_1.0.1.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/ZeroMap_0.6.oxz
