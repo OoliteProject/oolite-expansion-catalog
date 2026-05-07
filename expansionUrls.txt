@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/1/1f/Small_Ships.oxz
 https://wiki.alioth.net/img_auth.php/3/3e/Defence_Rider_Drones.oxz
 https://wiki.alioth.net/img_auth.php/9/99/PlanetFall2_BlackMonks.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/QMine_Facelift.oxz
