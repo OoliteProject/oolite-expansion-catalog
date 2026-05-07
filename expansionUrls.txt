@@ -160,7 +160,7 @@ https://wiki.alioth.net/img_auth.php/2/29/Oolite.oxp.zzz.Montana05.adck_wyvern_e
 https://wiki.alioth.net/img_auth.php/9/95/Oolite.oxp.zzz.Montana05.snark.OXZ
 https://wiki.alioth.net/img_auth.php/a/ae/Oolite.oxp.zzz.Montana05.Slartibartfast.adck_imperial_trader.OXZ
 https://wiki.alioth.net/img_auth.php/4/42/XenonHUD.oxz
-https://www.dl.dropboxusercontent.com/s/5c4bbeuw6ntlzs0/InterfaceReordering.0.2.oxz
+https://wiki.alioth.net/img_auth.php/5/5e/InterfaceReordering.0.2.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/ShipRepurchase.oxz
 https://wiki.alioth.net/img_auth.php/6/64/Oolite.oxp.zzz.Montana05_Taranis_outrider.OXZ
 https://wiki.alioth.net/img_auth.php/8/80/MaintenanceTuneUp.oxz
@@ -742,7 +742,7 @@ https://wiki.alioth.net/img_auth.php/5/50/BetterScreens.oxz
 https://wiki.alioth.net/img_auth.php/2/27/Glare_filter_1.0.oxz
 https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
 https://wiki.alioth.net/img_auth.php/b/be/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.64.oxz
-https://cim.sotl.org.uk/games/files/oolite/ShipsetCompatibility_1.4.oxz
+https://wiki.alioth.net/img_auth.php/b/bd/ShipsetCompatibility_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
 https://wiki.alioth.net/img_auth.php/9/91/PlanetFall2_2.30.oxz
 https://wiki.alioth.net/img_auth.php/7/7a/DTT_Snake_Charmer_1.1.oxz
