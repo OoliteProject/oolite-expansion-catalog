@@ -387,7 +387,7 @@ https://wiki.alioth.net/img_auth.php/f/fb/Gsagostinho.DangerousHUD.GreenVariant.
 https://wiki.alioth.net/img_auth.php/7/72/Gsagostinho.DangerousHUD.BlueVariant.oxz
 https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
-https://wiki.alioth.net/img_auth.php/e/e7/Library_1.9.oxz
+https://wiki.alioth.net/img_auth.php/0/04/Library_1.9.1.oxz
 https://wiki.alioth.net/img_auth.php/d/dc/Sfep_stations_2.0.2.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/Sfep_base_2.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
