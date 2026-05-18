@@ -8,6 +8,8 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/2/23/StationValidator.oxz
+https://wiki.alioth.net/img_auth.php/8/8c/SothisTC_2.0.oxz
 https://wiki.alioth.net/img_auth.php/f/f7/Neutralizer.oxz
 https://wiki.alioth.net/img_auth.php/1/1f/Small_Ships.oxz
 https://wiki.alioth.net/img_auth.php/3/3e/Defence_Rider_Drones.oxz
