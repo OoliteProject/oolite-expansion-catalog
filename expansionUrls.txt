@@ -11,7 +11,7 @@
 https://wiki.alioth.net/img_auth.php/b/b5/Witch-Charger.oxz
 https://wiki.alioth.net/img_auth.php/e/e5/PT-BVRM_Pteranodon.oxz
 https://wiki.alioth.net/img_auth.php/2/23/StationValidator.oxz
-https://wiki.alioth.net/img_auth.php/8/8c/SothisTC_2.0.oxz
+https://wiki.alioth.net/img_auth.php/8/85/SothisTC_2.1.oxz
 https://wiki.alioth.net/img_auth.php/f/f7/Neutralizer.oxz
 https://wiki.alioth.net/img_auth.php/1/1f/Small_Ships.oxz
 https://wiki.alioth.net/img_auth.php/3/3e/Defence_Rider_Drones.oxz
