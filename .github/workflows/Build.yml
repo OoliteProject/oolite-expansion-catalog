@@ -9,6 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Install required packages
+        run: |
+          apt-get install -y graphviz 
+
       - name: Checkout project
         uses: actions/checkout@v4
         with:
