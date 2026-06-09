@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/5/58/Tractor-Tow.oxz
 https://wiki.alioth.net/img_auth.php/b/b5/Witch-Charger.oxz
 https://wiki.alioth.net/img_auth.php/e/e5/PT-BVRM_Pteranodon.oxz
 https://wiki.alioth.net/img_auth.php/2/23/StationValidator.oxz
