@@ -1,3 +1,10 @@
+---
+name: Catalog Rebuild
+about: Request a rebuild of the catalog
+title: 'Catalog Rebuild'
+labels: 'rebuild'
+assignees: ''
+---
 name: Catalog Rebuild
 description: Request a rebuild of the catalog
 title: "[Rebuild]: "
