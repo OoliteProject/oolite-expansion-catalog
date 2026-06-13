@@ -4,6 +4,8 @@ on:
     - cron: '0 1 1 * *'
   workflow_dispatch:
   push:
+    paths-ignore:
+      - .github/ISSUE_TEMPLATE/**
   
 jobs:
   build:
