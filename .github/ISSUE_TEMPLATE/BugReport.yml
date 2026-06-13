@@ -1,0 +1,57 @@
+name: Bug Report
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: expansion
+    attributes:
+      label: Problematic Expansion
+      description: Which expansion is problematic? Give expansion name and version, or the download url.
+      placeholder: <expansion name> <version>
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: Describe the problem you perceived.
+      placeholder: Tell us what you see.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: Describe what you would have expected to see
+      placeholder: Tell us what you expected.
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Describe how the problem can be reproduced
+      placeholder: Tell us what you did.
+  - type: dropdown
+    id: manager
+    attributes:
+      label: Expansion Manager
+      description: Which expansion manager did you use?
+      options:
+        - Oolite builtin
+        - OoliteStarter
+        - none (manual)
+      default: 0
+    validations:
+      required: true
+  - type: upload
+    id: screenshots
+    attributes:
+      label: Upload screenshots.
+      description: If applicable, add screenshots to help explain your problem.
+    validations:
+      required: false
+

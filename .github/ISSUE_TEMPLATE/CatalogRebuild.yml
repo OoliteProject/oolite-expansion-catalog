@@ -1,15 +1,7 @@
----
-name: Catalog Rebuild
-about: Request a rebuild of the catalog
-title: 'Catalog Rebuild'
-labels: 'rebuild'
-assignees: ''
----
 name: Catalog Rebuild
 description: Request a rebuild of the catalog
 title: "[Rebuild]: "
 labels: ["rebuild"]
-type: update
 body:
   - type: markdown
     attributes:
@@ -20,10 +12,10 @@ body:
         Please be aware such rebuilds are done upon catalog changes and in regular intervals. There should be reason why an additional rebuild
         seems necessary.
         
-  - type: input
+  - type: textarea
     id: justification
     attributes:
       label: Justification
       description: Please describe why you think a rebuild is necessary
-    validation: 
+    validations: 
       required: true

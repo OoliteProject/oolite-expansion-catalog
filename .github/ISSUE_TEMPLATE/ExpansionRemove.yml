@@ -1,0 +1,26 @@
+name: Remove expansion url
+description: Request removal of an expansion url
+title: "[Removal]: "
+labels: ["removal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request removing a expansion from the catalog.
+
+  - type: input
+    id: download_url
+    attributes:
+      label: Download URL
+      description: URL that is to be removed
+      placeholder: https://server/path_to_oxz
+    validations: 
+      required: true
+
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Please describe why you think a removal is necessary.
+    validations: 
+      required: true

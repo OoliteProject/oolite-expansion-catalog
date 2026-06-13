@@ -1,8 +1,7 @@
-name: Add expansion
-description: Request addition of a new expansion to the catalog
+name: Add new expansion url
+description: Request addition of a new expansion url
 title: "[Addition]: "
 labels: ["addition"]
-type: change
 body:
   - type: markdown
     attributes:
@@ -10,14 +9,14 @@ body:
         Use this form to request adding a new expansion to the catalog. Please be aware that
         the expansion may be removed from the catalog if the download URL renders unavailable
         or it causes problems to Oolite or other expansions.
-        
+
   - type: input
     id: download_url
     attributes:
       label: Download URL
       description: Public URL where the expansion can be downloaded from.
       placeholder: https://server/path_to_oxz
-    validation: 
+    validations: 
       required: true
 
   - type: input
@@ -26,7 +25,7 @@ body:
       label: Forum Thread
       description: The URL to the thread discussing the new expansion on https://bb.oolite.space. That thread needs to tell everyone the name of the oxp, what to expect, where they can download, and that you’re looking for testers. That thread will then become the main place to discuss your expansion going forward.
       placeholder: https://bb.oolite.space/viewtopic.php?t=
-    validation: 
+    validations: 
       required: true
 
   - type: input
@@ -35,5 +34,5 @@ body:
       label: Wiki Page
       description: The documentation page for your expansion. It should cover what users need to know and be updated according to the discussions in the forum thread. With that it prevents users from reading the full history just to be up to date.
       placeholder: https://wiki.alioth.net/index.php/...
-    validation: 
-      required: true
+    validations: 
+      required: true        
