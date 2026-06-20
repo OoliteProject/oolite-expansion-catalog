@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/4/49/GriffClippers_1.1.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Tractor-Tow.oxz
 https://wiki.alioth.net/img_auth.php/b/b5/Witch-Charger.oxz
 https://wiki.alioth.net/img_auth.php/e/e5/PT-BVRM_Pteranodon.oxz
@@ -229,7 +230,7 @@ https://wiki.alioth.net/img_auth.php/5/54/Dark_Rainbow.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/NeoCaduceus.oxz
 https://wiki.alioth.net/img_auth.php/c/c3/Missiles_and_Bombs_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d9/Interstellar_Help.oxz
-https://wiki.alioth.net/img_auth.php/5/5b/Smugglers_2.12.oxz
+https://wiki.alioth.net/img_auth.php/4/4c/Smugglers_2.13.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/NoMarketNotification.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/EquipmentStorage_1.15.oxz
 https://wiki.alioth.net/img_auth.php/9/90/XenonReduxUI.oxz
@@ -250,7 +251,7 @@ https://wiki.alioth.net/img_auth.php/1/19/Diplomacy.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/Oolite.oxp.redspear.escape_pod_as_standard.oxz
 https://wiki.alioth.net/img_auth.php/5/57/Oolite.oxp.redspear.paddling_pool.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/Oolite.oxp.redspear.cargo_scoop_as_standard.oxz
-https://wiki.alioth.net/img_auth.php/e/ec/SW_Economy_3.10.oxz
+https://wiki.alioth.net/img_auth.php/1/19/SW_Economy_3.11.oxz
 https://wiki.alioth.net/img_auth.php/e/e3/LeestiIsMoonLSM8k.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/LeestiIsMoon8k.oxz
 https://wiki.alioth.net/img_auth.php/6/62/Oolite.oxp.zzz.Montana05.Far_Arm_Ships.OXZ
@@ -467,7 +468,7 @@ https://wiki.alioth.net/img_auth.php/3/33/Oolite.oxp.Astrobe.compass-target-auto
 https://wiki.alioth.net/img_auth.php/3/34/FTZ.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/SpyHunter_2.0.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Oolite.oxp.Astrobe.surjectors.oxz
-https://wiki.alioth.net/img_auth.php/6/6c/Additional_planets_sr_base_0.10.oxz
+https://wiki.alioth.net/img_auth.php/f/fe/Additional_planets_sr_base_0.11.oxz
 https://wiki.alioth.net/img_auth.php/0/02/Skilled_NPCs.oxz
 https://wiki.alioth.net/img_auth.php/a/af/Astrofactory_2.5.2.oxz
 https://wiki.alioth.net/img_auth.php/9/9d/Satellites.oxz
@@ -562,7 +563,7 @@ https://wiki.alioth.net/img_auth.php/c/c5/Singel-Use_Witchdrive-0.9.2.oxz
 https://wiki.alioth.net/img_auth.php/4/4a/FontDangerousSquare.oxz
 https://wiki.alioth.net/img_auth.php/2/26/Oolite.oxp.amah.noshaders_Mimoriarty_rl_ships.oxz
 https://wiki.alioth.net/img_auth.php/3/34/MiningContracts_1.15.oxz
-https://wiki.alioth.net/img_auth.php/f/f2/BlackMonks_2.3.oxz
+https://wiki.alioth.net/img_auth.php/1/1b/BlackMonks_2.4.oxz
 https://wiki.alioth.net/img_auth.php/6/6a/Oolite.oxp.amah.noshaders_missingcoreships.oxz
 https://wiki.alioth.net/img_auth.php/0/03/MinerCobra_1.4.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/Asteroid_tweaks_1.3.oxz
@@ -751,7 +752,7 @@ https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
 https://wiki.alioth.net/img_auth.php/b/be/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.64.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/ShipsetCompatibility_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
-https://wiki.alioth.net/img_auth.php/4/4c/PlanetFall2_2.32.oxz
+https://wiki.alioth.net/img_auth.php/3/37/PlanetFall2_2.33.oxz
 https://wiki.alioth.net/img_auth.php/7/7a/DTT_Snake_Charmer_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/75/DTT_Snake_Charmer_Pinup_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/70/Heavy_Metal.oxz
@@ -816,7 +817,7 @@ https://wiki.alioth.net/img_auth.php/a/aa/Deposed_2.1.oxz
 https://wiki.alioth.net/img_auth.php/d/db/MilitaryFiasco_2.5.3.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Taranis_2.1.oxz
 https://wiki.alioth.net/img_auth.php/a/a9/LoveCats_2.0.oxz
-https://wiki.alioth.net/img_auth.php/e/ec/PirateCoves_2.0.oxz
+https://wiki.alioth.net/img_auth.php/4/49/PirateCoves_2.1.oxz
 https://wiki.alioth.net/img_auth.php/d/d1/Cargo_wrecks_teaser_1.7.2.oxz
 https://wiki.alioth.net/img_auth.php/2/2a/AsteroidStorm_4.3.oxz
 https://wiki.alioth.net/img_auth.php/6/61/BigShips_1.4.oxz
