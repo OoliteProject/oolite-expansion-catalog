@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/a/a2/QuiriumCascadeBomb.oxz
 https://wiki.alioth.net/img_auth.php/4/49/GriffClippers_1.1.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Tractor-Tow.oxz
 https://wiki.alioth.net/img_auth.php/b/b5/Witch-Charger.oxz
@@ -102,7 +103,7 @@ https://wiki.alioth.net/img_auth.php/c/cc/Oolite.oxp.Cholmondeley.Lore_Collectio
 https://wiki.alioth.net/img_auth.php/e/e0/Oolite.oxp.amah.noshaders_stations_fullsize-textures.oxz
 https://wiki.alioth.net/img_auth.php/0/0b/XenonUI.oxz
 https://wiki.alioth.net/img_auth.php/7/7c/VimanaX_HUD_1.27.oxz
-https://wiki.alioth.net/img_auth.php/8/89/Z-GrOovY_SmallSystemStations_1.10.oxz
+https://wiki.alioth.net/img_auth.php/a/a0/Z-GrOovY_SmallSystemStations_1.11.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/Commies_2.20.oxz
 https://wiki.alioth.net/img_auth.php/e/e2/Dictators_2.8.oxz
 https://wiki.alioth.net/img_auth.php/d/d4/Escort_Formations_1.3.oxz
