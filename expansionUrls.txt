@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/4/45/SystemMap_0.6.oxz
 https://wiki.alioth.net/img_auth.php/a/a2/QuiriumCascadeBomb.oxz
 https://wiki.alioth.net/img_auth.php/4/49/GriffClippers_1.1.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Tractor-Tow.oxz
@@ -70,7 +71,7 @@ https://wiki.alioth.net/img_auth.php/d/d9/PitviperMarkII_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/3/3c/SpacebarFacelift_1.8.oxz
 https://wiki.alioth.net/img_auth.php/e/ef/ExternalDockingSystem_1.9.1.oxz
 https://wiki.alioth.net/img_auth.php/f/f3/ExtraRockHermits_1.7.oxz
-https://wiki.alioth.net/img_auth.php/e/e3/MissileSummary_1.6.oxz
+https://wiki.alioth.net/img_auth.php/3/30/MissileSummary_1.7.oxz
 https://wiki.alioth.net/img_auth.php/5/5f/ExpandedWeaponInfo.oxz
 https://wiki.alioth.net/img_auth.php/6/62/LaveInitialShipyard.oxz
 https://wiki.alioth.net/img_auth.php/2/21/WildShips_Facelift_1.1.oxz
@@ -395,7 +396,7 @@ https://wiki.alioth.net/img_auth.php/f/fb/Gsagostinho.DangerousHUD.GreenVariant.
 https://wiki.alioth.net/img_auth.php/7/72/Gsagostinho.DangerousHUD.BlueVariant.oxz
 https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
 https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
-https://wiki.alioth.net/img_auth.php/0/04/Library_1.9.1.oxz
+https://wiki.alioth.net/img_auth.php/6/68/Library_1.10.4.oxz
 https://wiki.alioth.net/img_auth.php/d/dc/Sfep_stations_2.0.2.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/Sfep_base_2.1.oxz
 https://wiki.alioth.net/img_auth.php/9/9e/Random_hits_1.11.5.oxz
