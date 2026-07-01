@@ -8,7 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
-https://wiki.alioth.net/img_auth.php/4/45/SystemMap_0.6.oxz
+https://wiki.alioth.net/img_auth.php/c/cb/SystemMap_0.7.oxz
 https://wiki.alioth.net/img_auth.php/a/a2/QuiriumCascadeBomb.oxz
 https://wiki.alioth.net/img_auth.php/4/49/GriffClippers_1.1.oxz
 https://wiki.alioth.net/img_auth.php/5/58/Tractor-Tow.oxz
