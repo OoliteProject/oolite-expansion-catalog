@@ -109,6 +109,8 @@ jobs:
           OAS_VERSION="${{steps.download.outputs.tag_name}}"
           OAS_VERSION="${OAS_VERSION:1}"
           java -jar "./OoliteAddonScanner-${OAS_VERSION}/OoliteAddonScanner-${OAS_VERSION}.jar" --url file://$(pwd)/output/catalog/index.plist --out output/OoliteExpansionIndex --cache expansion-cache --zip
+          # add json catalog from previous step so it is part of the downloadable artifact
+          cp 'output/catalog/index.json' 'output/OoliteExpansionIndex'
 
       - name: Check after Index Generator
         run: |
