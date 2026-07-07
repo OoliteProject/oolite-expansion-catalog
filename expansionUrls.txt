@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/f/f4/Anarchies_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/c/cb/SystemMap_0.7.oxz
 https://wiki.alioth.net/img_auth.php/a/a2/QuiriumCascadeBomb.oxz
 https://wiki.alioth.net/img_auth.php/4/49/GriffClippers_1.1.oxz
@@ -322,7 +323,7 @@ https://wiki.alioth.net/img_auth.php/f/f4/TionislaIsMars8k.oxz
 https://wiki.alioth.net/img_auth.php/8/8e/LaveIsEarth8k.oxz
 https://wiki.alioth.net/img_auth.php/0/0c/WOOT_Attack.oxz
 https://wiki.alioth.net/img_auth.php/7/75/Oolite.oxp.LittleBear.RandomStationNames.0.0.2.oxz
-https://wiki.alioth.net/img_auth.php/b/b8/Anarchies_2.9.5.oxz
+https://wiki.alioth.net/img_auth.php/5/5f/Anarchies_2.10.oxz
 https://wiki.alioth.net/img_auth.php/3/39/Oolite.oxp.another_commander.188NSGMaps.1_1.oxz
 https://wiki.alioth.net/img_auth.php/4/4f/Oolite.oxp.Thargoid.Pods.1.48.oxz
 https://wiki.alioth.net/img_auth.php/3/3e/Oolite.oxp.NewtSoup.MiningIFFScannerUpgrade.1.1.3.oxz
