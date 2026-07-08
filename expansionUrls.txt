@@ -323,7 +323,7 @@ https://wiki.alioth.net/img_auth.php/f/f4/TionislaIsMars8k.oxz
 https://wiki.alioth.net/img_auth.php/8/8e/LaveIsEarth8k.oxz
 https://wiki.alioth.net/img_auth.php/0/0c/WOOT_Attack.oxz
 https://wiki.alioth.net/img_auth.php/7/75/Oolite.oxp.LittleBear.RandomStationNames.0.0.2.oxz
-https://wiki.alioth.net/img_auth.php/5/5f/Anarchies_2.10.oxz
+https://wiki.alioth.net/img_auth.php/e/e5/Anarchies_2.10.1.oxz
 https://wiki.alioth.net/img_auth.php/3/39/Oolite.oxp.another_commander.188NSGMaps.1_1.oxz
 https://wiki.alioth.net/img_auth.php/4/4f/Oolite.oxp.Thargoid.Pods.1.48.oxz
 https://wiki.alioth.net/img_auth.php/3/3e/Oolite.oxp.NewtSoup.MiningIFFScannerUpgrade.1.1.3.oxz
