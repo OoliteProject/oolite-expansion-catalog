@@ -64,7 +64,7 @@ https://wiki.alioth.net/img_auth.php/8/8a/Draven_2.0.oxz
 https://wiki.alioth.net/img_auth.php/9/96/ContextualJukebox.oxz
 https://wiki.alioth.net/img_auth.php/2/21/Lave_2.4.oxz
 https://wiki.alioth.net/img_auth.php/8/8c/Coyotes_Run_2.6.oxz
-https://wiki.alioth.net/img_auth.php/7/75/Feudal_PlanetFall2_1.6.oxz
+https://wiki.alioth.net/img_auth.php/7/7d/Feudal_PlanetFall2_1.7.oxz
 https://wiki.alioth.net/img_auth.php/6/68/PlanetFall2_ResourcesA.oxz
 https://wiki.alioth.net/img_auth.php/c/cc/PlanetFall2_ResourcesB.oxz
 https://wiki.alioth.net/img_auth.php/8/83/GalacticHyperdrive.oxz
@@ -396,7 +396,7 @@ https://wiki.alioth.net/img_auth.php/2/28/Gsagostinho.DangerousHUD.OrangeVariant
 https://wiki.alioth.net/img_auth.php/f/fb/Gsagostinho.DangerousHUD.GreenVariant.oxz
 https://wiki.alioth.net/img_auth.php/7/72/Gsagostinho.DangerousHUD.BlueVariant.oxz
 https://wiki.alioth.net/img_auth.php/7/76/FarstarMurderer1.2.oxz
-https://wiki.alioth.net/img_auth.php/1/1e/GNN1.2.oxz
+https://wiki.alioth.net/img_auth.php/9/93/GNN_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/68/Library_1.10.4.oxz
 https://wiki.alioth.net/img_auth.php/d/dc/Sfep_stations_2.0.2.oxz
 https://wiki.alioth.net/img_auth.php/a/ad/Sfep_base_2.1.oxz
@@ -755,7 +755,7 @@ https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
 https://wiki.alioth.net/img_auth.php/b/be/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.64.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/ShipsetCompatibility_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
-https://wiki.alioth.net/img_auth.php/3/37/PlanetFall2_2.33.oxz
+https://wiki.alioth.net/img_auth.php/b/bb/PlanetFall2_2.34.oxz
 https://wiki.alioth.net/img_auth.php/7/7a/DTT_Snake_Charmer_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/75/DTT_Snake_Charmer_Pinup_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/70/Heavy_Metal.oxz
