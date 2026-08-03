@@ -755,7 +755,7 @@ https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
 https://wiki.alioth.net/img_auth.php/b/be/Oolite.oxp.Switeck.Cargo-Contract-Mod_1.64.oxz
 https://wiki.alioth.net/img_auth.php/b/bd/ShipsetCompatibility_1.4.oxz
 https://wiki.alioth.net/img_auth.php/6/60/Q-Charger_1.25.oxz
-https://wiki.alioth.net/img_auth.php/b/bb/PlanetFall2_2.34.oxz
+https://wiki.alioth.net/img_auth.php/2/25/PlanetFall2_2.35.oxz
 https://wiki.alioth.net/img_auth.php/7/7a/DTT_Snake_Charmer_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/75/DTT_Snake_Charmer_Pinup_1.1.oxz
 https://wiki.alioth.net/img_auth.php/7/70/Heavy_Metal.oxz
