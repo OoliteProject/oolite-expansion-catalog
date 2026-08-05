@@ -225,7 +225,7 @@ https://wiki.alioth.net/img_auth.php/8/84/Oolite.oxp.zzz.Montana05.SIRF.OXZ
 https://wiki.alioth.net/img_auth.php/5/5d/BountySystem.oxz
 https://wiki.alioth.net/img_auth.php/6/66/RemoveIndividualPylon_1.1.oxz
 https://wiki.alioth.net/img_auth.php/2/27/Deep_Horizon_Emergency_Witchspace_Initiator.oxz
-https://wiki.alioth.net/img_auth.php/4/4d/TrafficControl_2.4.oxz
+https://wiki.alioth.net/img_auth.php/9/91/TrafficControl_2.5.oxz
 https://wiki.alioth.net/img_auth.php/6/61/BroadcastComms_Digebiti_Variations.oxz
 https://wiki.alioth.net/img_auth.php/a/ac/PlanetarySystems.oxz
 https://wiki.alioth.net/img_auth.php/d/d7/Generation_Ships_1.6.oxz
@@ -439,7 +439,7 @@ https://wiki.alioth.net/img_auth.php/d/dc/Saleza_Aeronautics_2.3.4.oxz
 https://wiki.alioth.net/img_auth.php/8/8e/UPS_Courier.oxz
 https://wiki.alioth.net/img_auth.php/8/8a/Yah_4.5.1.oxz
 https://wiki.alioth.net/img_auth.php/2/20/Yah_constores_only_1.0.3.oxz
-https://wiki.alioth.net/img_auth.php/6/6d/Clippers_v1.4.4.oxz
+https://wiki.alioth.net/img_auth.php/a/a0/Clippers_1.4.5.oxz
 https://wiki.alioth.net/img_auth.php/7/70/ClassicMussurana_v1.3.oxz
 https://wiki.alioth.net/img_auth.php/3/39/Yah_more_ads_1.2.oxz
 https://wiki.alioth.net/img_auth.php/8/82/Yah_setg_4.6.oxz
@@ -704,7 +704,7 @@ https://wiki.alioth.net/img_auth.php/8/84/Copperhead_Mk21.1.oxz
 https://wiki.alioth.net/img_auth.php/3/34/SimonB%27s_Ships1.0.oxz
 https://wiki.alioth.net/img_auth.php/7/7b/UndocumentedLaunch.oxz
 https://wiki.alioth.net/img_auth.php/1/1a/Cougar_ST1.5.oxz
-https://wiki.alioth.net/img_auth.php/f/fc/Tori_2.3.oxz
+https://wiki.alioth.net/img_auth.php/8/8f/Tori_2.4.oxz
 https://wiki.alioth.net/img_auth.php/2/20/Randomshipnames.1.6.oxz
 https://wiki.alioth.net/img_auth.php/f/f1/Aquatics_2.30.oxz
 https://wiki.alioth.net/img_auth.php/9/95/ShieldtasticCrosshairs_1.0.oxz
