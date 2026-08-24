@@ -8,6 +8,7 @@
 #   Check the generator's pedantic mode.
 # 
 
+https://wiki.alioth.net/img_auth.php/4/46/Derelicts_Dont_Count_1.2.oxz
 https://wiki.alioth.net/img_auth.php/f/f4/Anarchies_Facelift.oxz
 https://wiki.alioth.net/img_auth.php/c/cb/SystemMap_0.7.oxz
 https://wiki.alioth.net/img_auth.php/a/a2/QuiriumCascadeBomb.oxz
@@ -813,11 +814,11 @@ https://wiki.alioth.net/img_auth.php/e/e5/Planetary_Compass_Name_Pack_B.oxz
 https://wiki.alioth.net/img_auth.php/1/13/Planetary_Compass_Name_Pack_A.oxz
 https://wiki.alioth.net/img_auth.php/f/f0/MisjumpAnalyser_1.1.oxz
 https://wiki.alioth.net/img_auth.php/4/4a/ThargornThreat_1.5.2.oxz
-https://wiki.alioth.net/img_auth.php/d/d6/ThargoidWars_4.6.oxz
+https://wiki.alioth.net/img_auth.php/6/6a/ThargoidWars_5.0.oxz
 https://wiki.alioth.net/img_auth.php/4/4e/MissileAnalyser_1.2.oxz
 https://wiki.alioth.net/img_auth.php/f/f9/Ionics_1.3.1.oxz
 https://wiki.alioth.net/img_auth.php/a/aa/Deposed_2.1.oxz
-https://wiki.alioth.net/img_auth.php/d/db/MilitaryFiasco_2.5.3.oxz
+https://wiki.alioth.net/img_auth.php/3/36/MilitaryFiasco_3.0.oxz
 https://wiki.alioth.net/img_auth.php/d/dd/Taranis_2.1.oxz
 https://wiki.alioth.net/img_auth.php/a/a9/LoveCats_2.0.oxz
 https://wiki.alioth.net/img_auth.php/4/49/PirateCoves_2.1.oxz
