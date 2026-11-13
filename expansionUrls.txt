@@ -749,7 +749,7 @@ https://wiki.alioth.net/img_auth.php/e/e7/BetterBuoys_v1.3.oxz
 https://cim.sotl.org.uk/games/files/oolite/Comms_Pack_A_0.5.oxz
 https://wiki.alioth.net/img_auth.php/e/e7/CaptSolos-GoodFortune.oxz
 https://wiki.alioth.net/img_auth.php/0/04/HyperradioCATACLYSM.oxz
-https://cim.sotl.org.uk/games/files/oolite/CameraDrones_1.4.oxz
+https://wiki.alioth.net/img_auth.php/9/90/CameraDrones_1.4.oxz
 https://wiki.alioth.net/img_auth.php/5/50/BetterScreens.oxz
 https://wiki.alioth.net/img_auth.php/2/27/Glare_filter_1.0.oxz
 https://wiki.alioth.net/images/5/55/Oolite.oxp.Switeck.Auto-ECM_0.4.oxz
