@@ -639,7 +639,7 @@ https://wiki.alioth.net/img_auth.php/2/2b/Mutabilis-Ships_Library_1.1.0.oxz
 https://wiki.alioth.net/img_auth.php/8/84/Oolite.oxp.CaptMurphy.BreakableShieldGenerators.oxz
 https://wiki.alioth.net/img_auth.php/3/3d/Oolite.oxp.CaptMurphy.BreakableHUDIFFScanner.oxz
 https://wiki.alioth.net/img_auth.php/a/ae/Oolite.oxp.CaptMurphy.BreakableEngines.oxz
-https://wiki.alioth.net/img_auth.php/c/cd/Untrumbled.oxz
+https://wiki.alioth.net/img_auth.php/8/8f/Untrumbled_1.3.oxz
 https://wiki.alioth.net/img_auth.php/b/b7/Oolite.oxp.CaptMurphy.BreakableEnergyUnit.oxz
 https://wiki.alioth.net/img_auth.php/7/73/Oolite.oxp.Wildeblood.Undocumented_Launch.oxz
 https://wiki.alioth.net/img_auth.php/7/79/Commodity_markets_2.0.1.oxz
